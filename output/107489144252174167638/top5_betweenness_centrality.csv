@@ -1,0 +1,6 @@
+Node,betweenness_centrality,Number of Degrees,Feature
+107489144252174167638,0.053626597311770975,5835,"['gender:1', 'institution:', 'job_title:blogger', 'job_title:photographer', 'last_name:steve']"
+111091089527727420853,0.012562834978866283,2130,"['gender:1', 'institution:Microsoft', 'institution:NEC', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'job_title:technologies.', 'last_name:robert', 'university:Prospect', 'university:San']"
+104987932455782713675,0.006495885249745727,2562,"['gender:1', 'institution:', 'job_title:at', 'job_title:blogger', 'job_title:photographer,', 'last_name:thomas', 'place:Los']"
+101373961279443806744,0.005110025585309635,2953,"['gender:1', 'job_title:&', 'job_title:landscape', 'job_title:nature', 'job_title:photographer', 'last_name:johan']"
+106831762557971378854,0.0044943144963510906,3031,"['gender:1', 'institution:NBC', 'job_title:executive', 'job_title:photographer,', 'job_title:recovering', 'job_title:tech', 'last_name:doug', 'place:Berkeley,', 'place:New', 'place:Oakland,', 'place:San', 'university:Lick-Wilmerding', 'university:UC']"

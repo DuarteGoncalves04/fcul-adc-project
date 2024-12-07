@@ -1,0 +1,6 @@
+Node,degree_centrality,Number of Degrees,Feature
+108541235642523883716,1.2064700285442436,1268,"['gender:1', 'job_title:&', 'job_title:blogger,', 'job_title:creator', 'job_title:event', 'job_title:for', 'job_title:host', 'job_title:live', 'job_title:of', 'job_title:podcaster', 'job_title:youtuber,', 'job_title:|', 'place:Atlanta,', 'place:Knoxville,', 'place:Memphis,', 'place:Pittsburgh,', 'place:Washington,', 'university:University']"
+111091089527727420853,0.7497621313035205,788,"['gender:1', 'institution:Microsoft', 'job_title:for', 'job_title:liaison', 'job_title:searching', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+101261243957067319422,0.5632730732635586,592,"['gender:1', 'institution:TWiT', 'institution:TechTV', 'job_title:journalist', 'job_title:technology', 'last_name:leo', 'place:Manhattan', 'place:San', 'university:Yale']"
+106382433884876652170,0.5518553758325404,580,"['gender:1', 'last_name:joe']"
+109876467727174291780,0.5118934348239772,538,"['gender:1', 'job_title:-', 'job_title:at', 'job_title:musician,', 'job_title:podcaster,', 'job_title:speaker,', 'job_title:videographer,']"

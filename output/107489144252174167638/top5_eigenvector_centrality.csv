@@ -1,0 +1,6 @@
+Node,eigenvector_centrality,Number of Degrees,Feature
+113455290791279442483,0.05428738194247621,1960,"['gender:1', 'job_title:and', 'job_title:entrepreneur', 'job_title:photographer', 'job_title:professional', 'last_name:colby', 'place:Berkeley,', 'place:Denton,', 'place:San']"
+105237212888595777019,0.05152495769835239,2276,"['gender:1', 'job_title:a', 'job_title:at', 'job_title:camera', 'job_title:cool', 'job_title:explorer', 'job_title:monkey', 'job_title:really', 'job_title:with', 'place:Austin,', 'university:Southern']"
+104987932455782713675,0.04838622958766376,2562,"['gender:1', 'institution:', 'job_title:at', 'job_title:blogger', 'job_title:photographer,', 'last_name:thomas', 'place:Los']"
+101035196437264488455,0.048013058771228974,2484,"['gender:1', 'institution:', 'job_title:analog', 'job_title:composer', 'job_title:enthusiast,', 'job_title:galleries', 'job_title:in', 'job_title:information', 'job_title:is', 'job_title:it', 'job_title:love,', 'job_title:my', 'job_title:photographer,', 'job_title:photography', 'job_title:security', 'job_title:special', 'job_title:specialist,', 'job_title:still', 'job_title:street', 'last_name:victor']"
+100962871525684315897,0.047614794023681475,1846,"['gender:1', 'job_title:full-time', 'job_title:photographer', 'last_name:scott']"

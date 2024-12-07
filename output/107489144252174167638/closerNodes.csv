@@ -1,0 +1,6 @@
+Node,Feature
+107489144252174167638,"['gender:1', 'institution:', 'job_title:blogger', 'job_title:photographer', 'last_name:steve']"
+107590607834908463472,"['gender:1', 'institution:Google', 'institution:Self-employed', 'job_title:google', 'job_title:maker', 'job_title:manager,', 'job_title:map', 'job_title:program', 'last_name:adam', 'place:Bloomington,', 'place:Boston,', 'place:Evanston,', 'place:Mannheim,', 'place:San', 'university:Indiana', 'university:Northwestern']"
+110052889787728339761,"['gender:2', 'job_title:4', 'job_title:and', 'job_title:at', 'job_title:drop', 'job_title:lead', 'job_title:lighting', 'job_title:on', 'last_name:maggie']"
+115851550445020159565,"['gender:1', 'last_name:josh', 'place:London']"
+104334993139856754317,"['gender:2', 'job_title::)', 'place:Fort', 'place:Orlando,', 'place:Seattle,', 'place:Seoul,']"

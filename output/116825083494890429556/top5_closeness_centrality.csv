@@ -1,0 +1,6 @@
+Node,closeness_centrality,Number of Degrees,Feature
+111091089527727420853,0.3855959006359353,2243,"['gender:1', 'institution:Fawcette', 'institution:Microsoft', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+112063946124358686266,0.370405259301477,1029,"['gender:1', 'job_title::)', 'job_title:being', 'job_title:enjoying', 'job_title:retired', 'last_name:tom']"
+106189723444098348646,0.3691088664642277,1025,"['gender:1', 'institution:Google', 'last_name:larry']"
+105237212888595777019,0.3681818922201189,1502,"['gender:1', 'job_title:a', 'job_title:at', 'job_title:camera', 'job_title:cool', 'job_title:explorer', 'job_title:monkey', 'job_title:really', 'job_title:with', 'place:Austin,', 'university:Southern']"
+101849747879612982297,0.36539588255838334,995,"['gender:3', 'job_title:&', 'job_title:ceo', 'job_title:founder', 'job_title:of', 'last_name:pete', 'place:San', 'place:Scotland']"

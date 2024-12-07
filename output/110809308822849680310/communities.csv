@@ -1,0 +1,115 @@
+Community,Node ID,Features
+Community 1,105498814020747664644,"['gender:1', 'last_name:david']"
+Community 1,111507697789646891138,['gender:2']
+Community 1,106252582339816604483,"['gender:1', 'institution:', 'job_title:of', 'last_name:josh', 'place:New']"
+Community 1,101236358663985370139,"['gender:1', 'job_title:professional']"
+Community 1,109634076350606312015,"['gender:1', 'institution:', 'job_title:actor,', 'job_title:web', 'job_title:writer,', 'place:Australia', 'place:Toronto']"
+Community 1,112965071697530830208,"['gender:1', 'job_title:&', 'job_title:digital', 'job_title:editor', 'job_title:photographer', 'job_title:professional', 'last_name:paul', 'place:Los']"
+Community 1,104364245385222242812,"['gender:1', 'job_title:&', 'job_title:editor', 'job_title:for', 'job_title:writer']"
+Community 1,116418120999128229651,"['gender:1', 'job_title:and', 'job_title:you', 'place:Global']"
+Community 1,118131417301350660933,"['gender:1', 'job_title:and', 'job_title:consultant', 'job_title:developer,', 'job_title:web']"
+Community 1,108064815750032267545,"['gender:2', 'job_title:and', 'job_title:internet', 'job_title:marketing,', 'job_title:media', 'job_title:social', 'job_title:virtual']"
+Community 1,113135998239694342561,"['gender:1', 'job_title:&', 'job_title:consultant', 'last_name:william', 'place:Moose']"
+Community 1,100248473165090001153,"['gender:1', 'job_title:writer']"
+Community 1,116389048565881346695,['gender:1']
+Community 1,115258341860984101749,['gender:1']
+Community 1,116588163905721394130,"['gender:2', 'job_title:blogger', 'job_title:consultant,', 'job_title:designer,', 'job_title:media', 'job_title:of', 'job_title:social']"
+Community 1,110856928078733558635,"['gender:1', 'last_name:kevin']"
+Community 1,111336527206042452530,"['gender:1', 'job_title:chief']"
+Community 1,112585802806501604122,"['gender:1', 'job_title:&', 'job_title:-', 'job_title:business', 'last_name:richard']"
+Community 1,105742351296672285212,"['gender:2', 'job_title:a', 'job_title:and', 'job_title:do', 'job_title:i', 'job_title:it', 'job_title:of', 'job_title:on', 'job_title:you']"
+Community 1,109723579416761476832,"['gender:2', 'place:Florida', 'place:Global']"
+Community 1,109213355974494564760,"['gender:1', 'job_title:writer,', 'last_name:ryan']"
+Community 2,113854964410181850754,"['gender:1', 'job_title:entrepreneur,', 'job_title:internet', 'job_title:photographer', 'job_title:writing,', 'place:Miami,', 'place:New']"
+Community 2,118141411480865400366,"['gender:1', 'institution:', 'last_name:mike', 'place:Florida', 'place:Ohio']"
+Community 2,106899853533350256658,"['gender:2', 'job_title:&', 'job_title:marketing', 'job_title:media', 'job_title:social', 'job_title:specialist', 'job_title:virtual']"
+Community 2,105224804026588644838,"['gender:1', 'job_title:and', 'job_title:business', 'last_name:david', 'place:Brooklyn,']"
+Community 2,106176762220398854458,"['gender:1', 'place:New']"
+Community 2,115421256232333720307,"['gender:1', 'last_name:ryan']"
+Community 2,104533077532962855796,"['gender:1', 'job_title:it', 'job_title:media', 'job_title:social']"
+Community 2,115918873633072664460,"['gender:1', 'job_title:my', 'job_title:own', 'last_name:david']"
+Community 2,104678585479974299308,"['gender:1', 'job_title:and', 'job_title:designer,', 'place:San']"
+Community 2,108421068311256655678,"['gender:1', 'job_title:-', 'job_title:consultant', 'job_title:g+', 'job_title:writer']"
+Community 2,111175640058806309479,"['gender:2', 'job_title:part', 'job_title:time']"
+Community 2,107863054441128406657,"['gender:2', 'job_title:&', 'job_title:designer,', 'job_title:developer', 'job_title:web', 'job_title:writer', 'university:University']"
+Community 2,107195212023404839277,['gender:1']
+Community 2,102107147806939041278,"['gender:1', 'job_title:a', 'job_title:and', 'job_title:any', 'job_title:i', ""job_title:i'm"", 'job_title:to']"
+Community 2,115037313319624350537,"['gender:2', 'job_title:digital', 'place:Los']"
+Community 2,112215258372617797481,['gender:1']
+Community 2,113962023658534166448,"['gender:1', 'job_title:blogger']"
+Community 2,103399926392582289066,"['gender:1', 'job_title:online', 'university:DePaul']"
+Community 2,104015870160096329227,"['gender:1', 'job_title:-', 'job_title:about', 'job_title:all', 'job_title:and', 'job_title:day', 'job_title:experience', 'job_title:i', 'job_title:it', 'job_title:long', 'job_title:me', 'job_title:nothing', 'job_title:on', 'job_title:social', 'job_title:the', 'job_title:to', 'job_title:you']"
+Community 2,105997147696968098541,[]
+Community 2,106990629754929211946,"['gender:1', 'job_title:digital', 'job_title:specialist', 'last_name:josh']"
+Community 2,109774732813459981611,"['gender:1', 'job_title:consultant', 'job_title:consultant,', 'last_name:joe']"
+Community 2,114707910756425953932,"['gender:1', 'last_name:richard']"
+Community 2,106324060302594483828,"['gender:1', 'last_name:mike']"
+Community 2,109117453053859900243,"['gender:1', 'university:University']"
+Community 3,103181848666629026653,"['gender:1', 'job_title:about', 'job_title:be', 'job_title:internet', 'job_title:to']"
+Community 3,115366624923467413091,"['gender:1', 'job_title:i']"
+Community 3,107124055901177783454,"['gender:1', 'last_name:james', 'place:Miami,']"
+Community 3,114468593663912084118,"['gender:1', 'job_title:design', 'job_title:i']"
+Community 3,101816574028065445771,['gender:1']
+Community 3,118124464126251185263,"['gender:1', 'university:University']"
+Community 3,112931539494181042672,"['gender:2', 'job_title:nothing']"
+Community 3,115655034901162574758,"['gender:2', 'university:DePaul']"
+Community 3,118301801570268856235,"['gender:1', 'job_title:all', 'job_title:and', 'job_title:any', 'job_title:my', 'job_title:of', 'job_title:own', 'place:Washington,']"
+Community 3,113332154614115794662,"['gender:1', 'job_title:by', 'job_title:engineer', 'job_title:software']"
+Community 3,111939354147936352250,"['gender:1', 'last_name:joe']"
+Community 3,109322383637704271125,"['gender:1', 'job_title:developer', 'job_title:software']"
+Community 3,107682748671253717847,"['job_title:blogger,', 'job_title:g+']"
+Community 3,105352819651784295285,"['gender:1', 'job_title:consultant,']"
+Community 3,113967406616028106904,['gender:2']
+Community 3,116743480428293422071,"['gender:1', 'job_title:a', 'job_title:for', 'job_title:i', 'job_title:long', 'job_title:me', 'job_title:of', 'job_title:part', 'job_title:professional', 'job_title:time', 'job_title:to', 'job_title:writer,', 'place:San']"
+Community 3,111361201906254029328,"['gender:1', 'job_title:poet,', 'place:Los']"
+Community 3,117459292092782853494,['gender:1']
+Community 3,111048918866742956374,"['gender:1', 'job_title:&', 'job_title:actor,', 'job_title:director,', 'job_title:social', 'job_title:writer,']"
+Community 4,111553074779935237348,['gender:1']
+Community 4,101976992040117841588,"['gender:1', 'job_title:it', 'last_name:james']"
+Community 4,105651997169496320109,"['gender:1', 'job_title:a', 'job_title:and', 'job_title:chief', 'job_title:designer,', 'job_title:developer,', 'job_title:experience', 'job_title:marketing', 'job_title:media', 'job_title:media,', 'job_title:of', 'job_title:senior', 'job_title:social', 'job_title:web']"
+Community 4,115690810845062432413,"['gender:1', 'job_title:and', 'job_title:for', 'job_title:the', 'job_title:writing,']"
+Community 4,108561665932627473443,"['gender:1', 'job_title:engineer', 'job_title:senior', 'job_title:software', 'place:San']"
+Community 4,101739741878826137430,['gender:1']
+Community 4,113079005958024523963,['gender:1']
+Community 4,100705229313310074838,"['gender:2', 'job_title:blogger', 'job_title:online']"
+Community 4,115014982086075314957,"['gender:2', 'job_title:&', 'job_title:director,', 'place:Washington,']"
+Community 4,117433601273794793765,"['gender:1', 'place:Toronto']"
+Community 4,104401480467294646872,['gender:1']
+Community 4,100880605610983797081,['gender:1']
+Community 4,118068221752550925627,"['gender:1', 'job_title:&', 'job_title:director,', 'last_name:david']"
+Community 4,101067703531172208103,[]
+Community 4,101661556901272001511,['gender:1']
+Community 4,114799576153483269253,['gender:1']
+Community 4,104837444186798390618,[]
+Community 4,109937667038516307933,['gender:1']
+Community 4,100648447824835833841,"['gender:1', 'job_title:activist,', 'job_title:business', 'job_title:director,', 'job_title:entrepreneur,', 'job_title:political']"
+Community 4,106352324589265984342,"['gender:1', 'job_title:social', 'job_title:specialist', 'last_name:james']"
+Community 4,114999153204626637344,['gender:1']
+Community 4,111325600943668975013,"['gender:1', 'last_name:jason']"
+Community 4,101992317764598340622,"['job_title:online', 'last_name:david']"
+Community 4,100505025801065910059,"['gender:1', 'job_title:and', 'job_title:internet', 'job_title:professional', 'university:University']"
+Community 4,107034853331269236365,"['gender:2', 'job_title:engineer']"
+Community 4,107938607469938255640,['gender:1']
+Community 4,115222177988544624929,"['gender:1', 'last_name:paul', 'place:Paris']"
+Community 4,103150632928084465744,"['gender:1', 'job_title:internet', 'job_title:marketing', 'place:San']"
+Community 4,115037426314836772892,"['gender:1', 'job_title:consultant', 'job_title:for', 'last_name:jason']"
+Community 4,102330181289486588031,"['gender:1', 'job_title:designer,', 'job_title:developer,', 'job_title:web']"
+Community 4,116351844072307896383,"['gender:1', 'job_title:&', 'job_title:director,', 'place:Australia']"
+Community 4,101128755113749145093,"['gender:1', 'last_name:kevin', 'place:Moose']"
+Community 4,106961732045330916384,"['gender:1', 'job_title:a', 'job_title:day', 'job_title:my', 'job_title:time', 'last_name:alan', 'place:Brooklyn,']"
+Community 4,111270145240185279834,['gender:1']
+Community 4,110809308822849680310,"['gender:2', 'job_title:activist,', 'job_title:blogger,', 'job_title:consultant,', 'job_title:online', 'job_title:poet,', 'job_title:political', 'job_title:writer,', 'place:Florence,']"
+Community 4,114964146443403609010,"['gender:1', 'place:Florence,', 'university:University']"
+Community 4,101342900053183501060,['gender:1']
+Community 4,116417560883731706834,"['gender:1', 'job_title:and']"
+Community 5,111896527502255370279,"['gender:1', 'job_title:and', 'job_title:design']"
+Community 5,108176814619778619437,"['gender:1', 'job_title:and', 'job_title:writer']"
+Community 5,103347964729925152455,"['gender:1', 'place:Paris']"
+Community 5,103326131892225095567,"['gender:1', 'last_name:david']"
+Community 5,102368348168475189243,"['gender:1', 'last_name:david']"
+Community 5,103894906673695132548,"['gender:1', 'last_name:alan']"
+Community 5,113241195923771055099,"['gender:1', 'last_name:james']"
+Community 5,114509450889691472883,['gender:1']
+Community 5,110569410802485729381,"['gender:1', 'job_title:marketing,', 'job_title:media,', 'job_title:social', 'last_name:william', 'place:Ohio']"
+Community 5,101077203305259314122,"['gender:2', 'job_title:a', 'job_title:and', 'job_title:be', ""job_title:i'm""]"
+Community 5,107048171099175859014,"['gender:1', 'job_title:and', 'job_title:by', 'job_title:do', 'job_title:i', ""job_title:i'm"", 'job_title:the', 'job_title:you']"

@@ -1,0 +1,1053 @@
+Community,Node ID,Features
+Community 1,117808925288865527025,"['gender:1', 'institution:Google', 'place:London', 'place:Mountain', 'place:New', 'place:San', 'place:Seattle']"
+Community 1,115740425396974668440,"['gender:1', 'institution:Google', 'job_title:engineer', 'last_name:eric']"
+Community 1,117377434815709898403,"['gender:1', 'institution:Google', 'institution:Microsoft', 'job_title:at', 'job_title:engineer', 'job_title:google', 'job_title:software', 'place:Boston,', 'place:New', 'place:Seattle,', 'place:Williamstown,', 'university:Williams']"
+Community 1,101111725148957537937,"['gender:2', 'institution:Google', 'job_title:google+', 'job_title:on', 'job_title:researcher', 'job_title:user', 'last_name:kimberly', 'place:Cincinnati,', 'place:Los', 'place:Stanford,', 'university:Stanford']"
+Community 1,111164095920889813531,"['gender:1', 'institution:Google', 'job_title:&', 'job_title:@', 'job_title:google', 'job_title:local', 'last_name:jeff', 'place:Boston,', 'place:Champaign,', 'place:Chicago,', 'place:Los', 'place:San', 'university:Harvard', 'university:University']"
+Community 1,114685727151899977785,"['gender:1', 'job_title:director', 'job_title:google', 'job_title:marketing,', 'job_title:of', 'job_title:product', 'last_name:brett']"
+Community 1,115744399689614835150,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:software', 'place:India', 'place:Ithaca,', 'place:New', 'university:Cornell']"
+Community 1,116222833568410151476,"['gender:1', 'institution:Amazon.com', 'institution:Google', 'institution:Merrill', 'institution:Morgan', 'job_title:engineer', 'job_title:google', 'job_title:site', 'last_name:trey', 'place:Chapel', 'place:Seattle,']"
+Community 1,102991700177087923792,"['gender:2', 'institution:Google', 'institution:Time', 'job_title:community', 'job_title:google', 'job_title:manager,', 'place:Brooklyn,']"
+Community 1,113364856660738963998,"['gender:1', 'institution:Google', 'job_title:of', 'job_title:staff', 'job_title:technical', 'last_name:joseph', 'place:Los', 'place:San', 'place:Stanford,', 'place:Urbana,', 'university:Stanford']"
+Community 1,106717946845088683921,"['gender:1', 'institution:Google', 'institution:Microsoft', 'job_title:and', 'job_title:chrome', 'job_title:director', 'job_title:engineering', 'job_title:g+', 'job_title:hangouts', 'job_title:helping', 'place:Bellevue,', 'place:Cambridge,', 'place:Columbia,', 'place:Palo']"
+Community 1,111255863953184177902,"['gender:2', 'job_title:and', 'job_title:content', 'job_title:internet', 'job_title:media', 'job_title:social', 'last_name:rebecca', 'place:London,']"
+Community 1,111099133387608816869,"['gender:1', 'institution:IBM', 'job_title:researcher', 'place:Austin,', 'place:Cincinnati,', 'place:Columbus,']"
+Community 1,104523937022819424424,"['gender:3', 'job_title:entertainer', 'last_name:anne']"
+Community 1,116381176537835440497,"['gender:1', 'job_title:&', 'job_title:american', 'job_title:artist,', 'job_title:entrepreneur,', 'job_title:founder', 'job_title:of', 'job_title:producer,', 'job_title:recording']"
+Community 1,100258933461856349896,"['gender:1', 'institution:Google', 'job_title:engineering', 'job_title:manager', 'last_name:chris', 'place:Phoenix,']"
+Community 1,104730969284048173235,"['gender:1', 'institution:Google', 'institution:Google+', 'job_title:manager', 'job_title:marketing', 'job_title:product', 'place:Chicago,', 'place:Portland,', 'place:Seattle,', 'university:University']"
+Community 1,111293703111615229109,"['gender:1', 'last_name:brad']"
+Community 1,113882113745075873153,"['gender:1', 'institution:Google', 'job_title:director', 'job_title:engineering', 'job_title:for', 'job_title:google+', 'last_name:dave']"
+Community 1,109447849655350232737,[]
+Community 1,115863474911002159675,"['gender:1', 'institution:Google', 'job_title:hacker', 'last_name:brad', 'place:Hillsboro,', 'place:Seattle,', 'university:University']"
+Community 1,107140884077582692033,"['gender:2', 'institution:Google', 'job_title:and', 'job_title:for', 'job_title:google', 'job_title:lead', 'job_title:manager', 'job_title:of', 'job_title:tech', 'last_name:natalie', 'place:Palo', 'university:Princeton', 'university:Stanford']"
+Community 1,110260043240685719403,"['gender:1', 'institution:Google', 'job_title:google', 'job_title:lead', 'job_title:photos', 'last_name:matt', 'university:Stanford']"
+Community 1,106792630639449031994,"['gender:2', 'institution:Google', 'job_title:&', 'job_title:google+', 'job_title:manager,', 'job_title:product', 'job_title:search', 'place:Iowa']"
+Community 1,111215626086255858123,"['gender:1', 'last_name:aaron']"
+Community 1,100349743543849719885,['gender:1']
+Community 1,100392892147531800897,"['gender:1', 'last_name:david']"
+Community 1,107307194456811822870,"['gender:1', 'last_name:andrew']"
+Community 1,104390246098751387487,"['gender:1', 'institution:Google', 'job_title:engineer', 'last_name:david', 'place:Chicago,', 'place:Irvine,']"
+Community 1,118207880179234484610,"['gender:2', 'institution:Google', 'job_title:@', 'job_title:google', 'place:Palo', 'university:Stanford']"
+Community 1,100535338638690515335,"['gender:1', 'institution:Google', 'job_title:google+', 'job_title:marketing,', 'job_title:product', 'place:Baltimore,', 'place:Berkeley,', 'place:Denver,', 'place:Los', 'place:Palo', 'university:UC']"
+Community 1,100523784851251213675,"['gender:1', 'job_title:and', 'job_title:ceo', 'last_name:michael', 'place:Austin,', 'place:Houston,', 'university:University']"
+Community 1,108176814619778619437,"['gender:1', 'job_title:actor', 'job_title:and', 'job_title:writer', 'place:Los', 'place:Pasadena,', 'place:Vancouver,']"
+Community 1,117245054937343378617,"['job_title:and', 'job_title:author,', 'job_title:designer', 'job_title:engineer', 'job_title:illustrator,', 'last_name:paul']"
+Community 1,106876106366109230271,"['gender:1', 'job_title:music', 'last_name:christopher']"
+Community 1,101161312870020057580,[]
+Community 1,107226127526541403399,"['gender:1', 'institution:Google', 'job_title:at', 'job_title:developer', 'job_title:engineer', 'job_title:google', 'last_name:les', 'place:Menlo', 'place:Oakland,', 'place:Salt', 'place:San']"
+Community 1,107072035581218462658,[]
+Community 1,111395306401981598462,[]
+Community 1,113756014567052941747,"['gender:1', 'last_name:adam']"
+Community 1,106526452034734966566,['gender:1']
+Community 1,116154269478833904015,"['gender:1', 'job_title:engineer', 'job_title:software', 'place:Seattle', 'place:Sydney']"
+Community 1,103389452828130864950,"['gender:1', 'institution:Google', 'job_title:engineer', 'university:Stanford']"
+Community 1,104834129907874592944,"['gender:1', 'institution:Financial', 'institution:Google', 'job_title:financial', 'job_title:redditor', 'job_title:times', 'job_title:|', 'last_name:jay', 'place:Manhattan', 'place:new']"
+Community 1,107945426404682361496,"['gender:1', 'institution:Search', 'job_title:&', 'job_title:blogger', 'job_title:ceo', 'job_title:search', 'last_name:barry', 'place:New']"
+Community 1,105620531063767546157,[]
+Community 1,113754283359377615013,"['gender:2', 'institution:Google', 'job_title:google+', 'job_title:i', 'job_title:lead', 'job_title:research', 'job_title:team', 'job_title:the', 'job_title:ux', 'last_name:laura', 'place:Ithaca,', 'place:Palo', 'university:Cornell', 'university:Stanford']"
+Community 1,106473332550730818968,"['gender:2', 'job_title:with', 'last_name:kimberly', 'place:Dallas,', 'university:non-ascii_863']"
+Community 1,105540241924141497089,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:google+', 'job_title:on', 'job_title:software', 'job_title:staff']"
+Community 1,103643162894536968927,"['gender:1', 'last_name:will']"
+Community 1,109412257237874861202,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:software', 'last_name:matt', 'place:Kentucky', 'place:Maryland', 'place:North', 'university:University', 'university:University']"
+Community 1,112632697423913999576,"['gender:2', 'job_title:city', 'job_title:specialist', 'last_name:anne', 'place:San', 'university:San']"
+Community 1,108094760132961329912,"['gender:1', 'institution:Amazon.com', 'institution:Google', 'job_title:google+', 'job_title:mobile', 'job_title:pm', 'university:University']"
+Community 1,109813896768294978296,"['gender:1', 'institution:Google', 'university:Stanford', 'university:University']"
+Community 1,103036608814734002706,"['gender:1', 'institution:Google', 'institution:SayNow', 'job_title:google', 'last_name:brian', 'place:Los', 'place:New', 'university:University']"
+Community 1,113935610036479992652,"['gender:1', 'job_title:media', 'job_title:web', 'last_name:timothy', 'university:none']"
+Community 1,100940716892313727285,"['gender:1', 'institution:Accenture', 'institution:Apple', 'institution:Google', 'institution:Virage', 'job_title:at', 'job_title:google', 'job_title:is', 'job_title:my', 'last_name:dave', 'place:Ann', 'place:Boston,', 'place:Reading,', 'place:San', 'university:Dartmouth']"
+Community 1,103140137391526341351,"['gender:2', 'institution:Missouri', 'job_title:advocate', 'job_title:associate', 'job_title:director', 'job_title:interactive', 'job_title:mom', 'place:Chapel', 'place:Monterey,', 'place:Syracuse,', 'university:Aquinas', 'university:Syracuse', 'university:non-ascii_883']"
+Community 1,106086121009771648314,"['gender:1', 'last_name:mark']"
+Community 1,113117251731252114390,"['gender:1', 'job_title:and', 'job_title:blogger', 'job_title:columnist', 'job_title:writer,', 'last_name:mike', 'university:UCLA']"
+Community 1,113751353481962008916,"['gender:1', 'institution:Google', 'job_title:advocate', 'job_title:developer', 'job_title:for', 'job_title:google+', 'job_title:project', 'job_title:the', 'last_name:timothy', 'place:San']"
+Community 1,107427974268380977385,"['gender:1', 'job_title:developer', 'job_title:website', 'last_name:seth']"
+Community 1,103778462564599113222,"['institution:Google', 'institution:YouTube', 'place:San', 'place:Tucson,', 'university:University']"
+Community 1,115017188374689068228,"['gender:2', 'institution:']"
+Community 1,102490327476843607372,"['gender:1', 'job_title:student', 'last_name:jeff', 'place:New']"
+Community 1,108189587050871927619,"['gender:1', 'job_title:developer', 'job_title:google+', 'job_title:relations', 'last_name:chris', 'place:Amsterdam,', 'place:Dallas,', 'place:London,']"
+Community 1,115404182941170857382,"['gender:1', 'institution:Google+', 'job_title:designer', 'last_name:jonathan', 'place:Pittsburgh,', 'university:Carnegie']"
+Community 1,113686253941057080055,"['gender:1', 'job_title:community', 'job_title:google+', 'job_title:manager', 'job_title:photos', 'last_name:brian', 'place:Boston', 'place:Honolulu', 'place:Mountain', 'place:Seattle', 'place:Seoul', 'university:University']"
+Community 1,115695578304416858659,"['gender:2', 'institution:Edelman', 'institution:Google', 'institution:Yahoo!', 'job_title:chrome', 'job_title:community', 'job_title:manager', 'university:University']"
+Community 1,111499908439497508351,"['gender:1', 'institution:Google', 'job_title:google+', 'job_title:lead', 'job_title:manager,', 'job_title:mobile', 'job_title:product']"
+Community 1,116594199576805510790,"['gender:1', 'job_title:engineer', 'job_title:google+', 'job_title:photos', 'job_title:software', 'last_name:vincent']"
+Community 1,106633889788682321324,[]
+Community 1,108053344167695247928,"['gender:2', 'job_title:engineer', 'job_title:software', 'last_name:amanda']"
+Community 1,114884726921304148647,"['gender:1', 'job_title:technician', 'last_name:shawn']"
+Community 1,116663982997041117781,"['gender:1', 'institution:YouTube', 'job_title:manager,', 'job_title:product', 'place:New']"
+Community 1,112465521483223928512,"['gender:1', 'job_title:and', 'job_title:build', 'job_title:teach']"
+Community 1,115361828997207672756,['gender:2']
+Community 1,113116318008017777871,"['gender:1', 'institution:Google+', 'institution:Virage', 'institution:Yahoo', 'job_title:management', 'job_title:of', 'job_title:president', 'job_title:product', 'job_title:vice', 'place:Ann', 'place:Boston,', 'place:Cambridge,', 'place:New', 'place:Oakland,', 'place:San', 'university:Massachusetts', 'university:University']"
+Community 1,107009249268118408217,"['gender:1', 'job_title:support', 'job_title:technical', 'last_name:christopher']"
+Community 1,113878519978828324792,"['gender:2', 'job_title:-', 'job_title:11', 'job_title:anchor', 'job_title:and', 'job_title:at', 'job_title:chief', 'job_title:instigator', 'job_title:interactive', 'job_title:pm', 'job_title:social', 'job_title:tv', 'job_title:you', 'last_name:amy', 'university:American', 'university:Fox']"
+Community 1,117260336597119077984,"['gender:1', 'institution:Google', 'institution:Google+', 'institution:Merrill', 'job_title:marketing', 'job_title:product']"
+Community 1,100854202666064752024,"['gender:1', 'institution:Google,', 'institution:Microsoft', 'job_title:google+', 'job_title:guy', 'job_title:manager,', 'job_title:product', 'last_name:jonathan', 'university:Harvard']"
+Community 1,118122556596388698587,"['gender:2', 'institution:Mashable', 'job_title:&', 'job_title:community', 'job_title:management,', 'job_title:marketing', 'job_title:sales', 'university:Columbia']"
+Community 1,104630484391536529851,"['gender:1', 'job_title:it', 'job_title:professional', 'last_name:sean']"
+Community 1,113662458852848309236,"['gender:2', 'job_title:&', 'job_title:analyst.', 'job_title:army', 'job_title:arts', 'job_title:director', 'job_title:marketing,', 'job_title:media', 'job_title:nonprofit', 'job_title:on', 'job_title:project', 'job_title:social', 'job_title:writer', 'last_name:becky']"
+Community 1,115570939558790629700,"['gender:1', 'institution:Self', 'job_title:@', 'job_title:designer', 'job_title:google', 'last_name:christopher']"
+Community 1,104753156470151028358,"['gender:1', 'institution:Google']"
+Community 1,104502152172934080159,"['gender:1', 'institution:Ask.com', 'institution:Google', 'job_title:google', 'job_title:manager', 'job_title:product', 'job_title:sr.', 'last_name:peter', 'place:Tokyo']"
+Community 1,118299777136505117634,"['gender:1', 'institution:Google', 'job_title:manager', 'job_title:technical', 'place:Bristol,']"
+Community 1,102034052532213921839,"['gender:1', 'institution:Google', 'institution:Mozilla', 'job_title:designer', 'job_title:developer', 'last_name:chris', 'university:Carnegie']"
+Community 1,102443055443356357765,"['gender:1', 'institution:Google,', 'job_title:engineer', 'job_title:software', 'job_title:test', 'last_name:adam', 'place:Menlo', 'place:San', 'place:Sydney,']"
+Community 1,110215372857969443518,"['gender:1', 'institution:San', 'institution:The', 'job_title:journalist,', 'job_title:professional', 'job_title:tech', 'last_name:mike', 'place:Palo']"
+Community 1,106189723444098348646,"['gender:1', 'institution:Google', 'last_name:larry']"
+Community 1,114963335823650717178,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:network', 'job_title:test', 'last_name:richard', 'place:Austin,', 'place:San', 'university:University']"
+Community 1,100219691404074384850,"['gender:1', 'institution:Google,', 'job_title:engineer', 'job_title:software', 'place:Berkeley,', 'university:UC']"
+Community 1,107117483540235115863,"['gender:1', 'institution:Google', 'institution:Microsoft', 'job_title:engineering', 'job_title:president,', 'job_title:senior', 'job_title:vice']"
+Community 1,103429767916333774260,"['gender:1', 'job_title:engineer', 'job_title:software', 'last_name:andrew', 'university:University']"
+Community 1,105329929314379043455,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:manager,', 'job_title:solutions', 'job_title:web', 'last_name:james']"
+Community 1,104128454477572697430,"['gender:1', 'institution:Google', 'job_title:marketing', 'job_title:professional', 'place:Oakland', 'place:San']"
+Community 1,107590607834908463472,"['gender:1', 'institution:Google', 'institution:Self-employed', 'job_title:google', 'job_title:maker', 'job_title:manager,', 'job_title:program', 'last_name:adam', 'place:Bloomington,', 'place:Boston,', 'place:Evanston,', 'place:San', 'university:Indiana']"
+Community 1,100159178896104440459,[]
+Community 1,100415345527134852246,"['gender:1', 'job_title:lead', 'last_name:mike']"
+Community 1,110760151623547085696,"['gender:1', 'institution:Google', 'institution:Google,', 'place:Orlando,', 'place:Round']"
+Community 1,113424222789153728067,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:in', 'job_title:software', 'job_title:test', 'last_name:stephen', 'place:Boston', 'place:Hong', 'university:Massachusetts']"
+Community 1,108159551615224338529,"['gender:2', 'institution:Google', 'job_title:engineer', 'job_title:software', 'last_name:kelly', 'place:Ashburn,', 'place:Brooklyn,', 'place:San']"
+Community 1,101962829696981365403,"['gender:1', 'job_title:/', 'job_title:consultant,', 'job_title:designer,', 'job_title:effects', 'job_title:event', 'job_title:fine', 'job_title:live', 'job_title:lover', 'job_title:of', 'job_title:photographer,', 'job_title:professional', 'job_title:special', 'job_title:things', 'university:Illinois']"
+Community 1,104484219049883711215,"['gender:2', 'institution:Google', 'job_title:designer', 'job_title:google+', 'job_title:on', 'job_title:ux', 'place:Palo', 'place:Pittsburgh,', 'place:San', 'place:San', 'university:Stanford', 'university:University']"
+Community 1,103438332263642514693,"['gender:1', 'institution:Google', 'job_title:google+', 'job_title:manager,', 'last_name:michael', 'place:Irvine,', 'place:Mountain', 'place:Phoenix,', 'place:Pittsburgh,', 'university:Carnegie']"
+Community 1,102467684150504816942,['gender:2']
+Community 1,112099486767175481894,"['gender:1', 'institution:Google', 'job_title:designer', 'job_title:photographer', 'job_title:|', 'place:Oceanside,']"
+Community 1,118177189004466545044,[]
+Community 1,108896556048763968559,"['gender:1', 'job_title:blogger,', 'job_title:developer,', 'job_title:marketing,', 'job_title:media,', 'job_title:seo,', 'job_title:social', 'job_title:web']"
+Community 1,101560853443212199687,[]
+Community 1,101225591384395537943,"['gender:2', 'job_title:freelance', 'job_title:photographer', 'last_name:erin', 'place:Murfreesboro,']"
+Community 1,111952642093556825738,"['gender:2', 'institution:ESPN', 'last_name:erin']"
+Community 1,105006381068870463173,"['gender:2', 'institution:Google', 'job_title:hacker', 'job_title:video']"
+Community 1,105237212888595777019,"['gender:1', 'job_title:a', 'job_title:at', 'job_title:camera', 'job_title:with', 'last_name:trey', 'place:Austin,', 'university:Southern']"
+Community 1,105450804580077896136,"['gender:1', 'institution:Google', 'job_title:cloud', 'job_title:google', 'last_name:erick']"
+Community 1,105095083538991543994,"['gender:1', 'institution:Google', 'job_title:&', 'job_title:local', 'last_name:dave', 'place:New', 'university:Yale']"
+Community 1,106723760098690366676,"['gender:1', 'job_title:youtube']"
+Community 1,116651741222993143554,"['gender:1', 'institution:Google', 'job_title:and', 'job_title:apps,', 'job_title:chrome', 'job_title:google', 'job_title:president,', 'job_title:senior', 'job_title:vice', 'place:India', 'place:Philadelphia', 'university:Stanford']"
+Community 1,113843998775098502890,"['gender:2', 'job_title:developer', 'job_title:software']"
+Community 1,108551811075711499995,['gender:1']
+Community 1,115130390735317423919,"['gender:3', 'institution:Google']"
+Community 1,103233967921245494760,"['gender:2', 'job_title:and', 'job_title:editor-in-chief', 'job_title:group', 'job_title:media', 'job_title:of', 'job_title:president']"
+Community 1,109213463086683318532,"['gender:2', 'institution:Google', 'job_title:google', 'job_title:manager,', 'job_title:program', 'place:Sydney', 'place:Tokyo', 'place:Toronto']"
+Community 1,111558319297322546031,"['gender:1', 'job_title:and', 'job_title:at', 'job_title:writer', 'place:Nashua,']"
+Community 1,116585534264633935760,"['gender:1', 'job_title:graduate', 'job_title:student', 'place:Dallas,']"
+Community 1,114629508960670409934,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:software', 'last_name:john', 'place:Mountain']"
+Community 1,114826457457941066820,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:software', 'place:Scottsdale,', 'university:Arizona']"
+Community 1,114771097028576417549,"['gender:1', 'last_name:jonathan']"
+Community 1,109895887909967698705,"['gender:2', 'institution:Google', 'job_title:community', 'job_title:for', 'job_title:google+', 'job_title:manager', 'last_name:natalie']"
+Community 1,109351399938437494273,['gender:1']
+Community 1,106501936839371135482,"['gender:1', 'institution:Google', 'job_title:manager', 'job_title:product', 'last_name:joe', 'place:New', 'place:San', 'place:Toronto,']"
+Community 1,118017199865619527057,[]
+Community 1,115018064954042406412,"['gender:1', 'job_title:analyst', 'job_title:engine', 'job_title:search', 'last_name:cliff', 'place:Mountain']"
+Community 1,102600774742322762226,"['gender:2', 'institution:Google', 'job_title:manager', 'job_title:product', 'place:Boston,', 'place:Tel-Aviv,']"
+Community 1,107849922105700858631,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:software', 'place:Chennai,', 'university:Duke']"
+Community 1,101794216671100303552,"['gender:1', 'job_title:geeky', 'job_title:stuff', 'last_name:max', 'place:Chicago,', 'place:St.', 'university:DeVry', 'university:Prospect']"
+Community 1,115185211980778442255,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:software', 'place:Atlanta,']"
+Community 1,115514397255079403751,"['gender:1', 'institution:Google', 'last_name:toby', 'university:Harvard']"
+Community 1,104619747503393735851,"['gender:2', 'institution:Google', 'job_title:engineer', 'job_title:software', 'place:Davis,', 'university:University', 'university:University']"
+Community 1,117840649766034848455,"['gender:1', 'institution:Google', 'job_title:software', 'last_name:andy', 'place:Berkeley,', 'place:Philadelphia,', 'university:University']"
+Community 1,112018516595149025586,"['gender:1', 'job_title:developer', 'last_name:mike', 'place:New']"
+Community 1,112710501221399450850,"['gender:1', 'institution:Accenture', 'institution:Google', 'job_title:engineer', 'job_title:software', 'last_name:owen']"
+Community 1,108012991939099820186,"['gender:1', 'institution:Google', 'job_title:engineer', 'job_title:software', 'last_name:matt', 'place:Toronto,', 'place:Waterloo,', 'university:University']"
+Community 1,107289961585411779306,"['gender:1', 'institution:Google', 'job_title:composer', 'job_title:engineer,', 'job_title:software', 'place:Miami,', 'place:Mountain', 'place:Pittsburgh,', 'university:Carnegie']"
+Community 1,112446452660061734400,[]
+Community 1,101139167041442394792,"['gender:1', 'job_title:architect', 'job_title:computer', 'job_title:do', 'last_name:bob', 'place:Albany,']"
+Community 2,107494727142915463790,"['gender:1', 'job_title:man', 'job_title:of']"
+Community 2,104402312334775525717,"['gender:1', 'job_title:design', 'job_title:land', 'last_name:adam', 'place:St.']"
+Community 2,109345865429707844168,"['gender:1', 'job_title:at', 'job_title:make', 'job_title:media', 'job_title:of', 'job_title:social', 'job_title:the', 'job_title:to', 'last_name:michael', 'place:Dallas', 'place:Nashville', 'place:Orlando', 'place:San', 'university:non-ascii_863']"
+Community 2,104142754390088344306,"['gender:1', 'job_title:arts']"
+Community 2,105733948050774149627,[]
+Community 2,102512541586858673434,['gender:2']
+Community 2,100537772575114025993,"['gender:2', 'job_title:&', 'job_title:a', 'job_title:am', 'job_title:and', 'job_title:emergency', 'job_title:i', 'job_title:in', 'job_title:on', 'job_title:teacher', 'job_title:the', 'job_title:work', 'last_name:laura', 'place:Boise,']"
+Community 2,115604980276640526941,"['gender:2', 'job_title:ceo', 'job_title:my', 'job_title:of', 'place:Miami,']"
+Community 2,106496967013882292185,[]
+Community 2,112915508949553064969,"['gender:1', 'institution:IBM', 'job_title:media', 'job_title:ninja', 'last_name:paul']"
+Community 2,111173171230586494613,[]
+Community 2,113641354088554800188,"['gender:2', 'job_title:artist', 'job_title:fine']"
+Community 2,101488008052888335356,['gender:1']
+Community 2,113532036700237936114,[]
+Community 2,106328387072777040158,[]
+Community 2,111625639286470334885,[]
+Community 2,110688474802292277786,"['gender:1', 'last_name:dave']"
+Community 2,107625733670511152905,"['job_title:and', 'job_title:band', 'job_title:broadcaster;', 'job_title:film', 'job_title:for', 'job_title:i', 'job_title:of', 'job_title:pr', 'job_title:radio']"
+Community 2,115126222761735927257,"['gender:1', 'last_name:mark']"
+Community 2,105699527508121484553,"['gender:1', 'last_name:christopher']"
+Community 2,109585716855239048243,"['gender:1', 'job_title:/', 'job_title:blogger', 'job_title:fire', 'job_title:photographer']"
+Community 2,102299732908887751198,['gender:2']
+Community 2,105004335241251586694,[]
+Community 2,113210890654034986465,[]
+Community 2,116638958379604473194,"['gender:1', 'last_name:george', 'university:Bradley']"
+Community 2,101426164395172997809,"['gender:1', 'last_name:christopher']"
+Community 2,115599866490385225976,"['gender:1', 'last_name:ken', 'place:Dallas,']"
+Community 2,100351700763266493358,[]
+Community 2,104449572275071184198,"['gender:2', 'job_title:and', 'job_title:research']"
+Community 2,115366624923467413091,"['gender:1', 'job_title:i', 'job_title:test', 'job_title:things', 'last_name:jeremy']"
+Community 2,109734221326849566494,"['gender:1', 'job_title:a', 'job_title:all', 'job_title:and', 'job_title:by', 'job_title:computer', 'job_title:from', 'job_title:i', ""job_title:i've"", 'job_title:if', 'job_title:not', 'job_title:office', 'job_title:on', 'job_title:or', 'job_title:staff', 'job_title:that', 'job_title:the', 'job_title:they', 'last_name:matthew']"
+Community 2,118049752810287995066,[]
+Community 2,109722189944089510033,[]
+Community 2,117131320813354732027,"['gender:1', 'job_title:media', 'job_title:social', 'job_title:specialist', 'last_name:mike', 'place:Cincinnati,']"
+Community 2,100339934536910916220,[]
+Community 2,112246417337956018738,[]
+Community 2,114701420583282435406,"['gender:1', 'last_name:steven']"
+Community 2,113989994225911747111,"['gender:1', 'institution:', 'job_title:artist']"
+Community 2,111948878041168186917,"['gender:2', 'job_title:artist', 'university:Sonoma']"
+Community 2,106018807891386594468,"['gender:1', 'institution:Self', 'job_title:&', 'job_title:audio', 'job_title:business', 'job_title:computer', 'job_title:consultant', 'job_title:strategist', 'job_title:support', 'last_name:robert']"
+Community 2,104018805003766750720,['gender:2']
+Community 2,103168732943375073388,"['gender:2', 'job_title:and', 'job_title:artist', 'job_title:consultant', 'job_title:digital', 'job_title:in', 'job_title:marketing,', 'job_title:relations', 'job_title:sales,', 'job_title:specializing', 'place:Iowa', 'university:University']"
+Community 2,102314486331710415915,['gender:2']
+Community 2,110292711527889111689,['gender:2']
+Community 2,107982618909749811163,"['gender:2', 'job_title:and', 'job_title:ceo,', 'last_name:amanda']"
+Community 2,104286363725914412325,"['gender:1', 'job_title:a', 'job_title:for', ""job_title:i'm"", 'job_title:living.', 'job_title:taking', 'job_title:they', 'job_title:what', 'job_title:working', 'last_name:james']"
+Community 2,108702243956983861993,"['gender:1', 'last_name:john', 'place:Toronto']"
+Community 2,115446929412835725862,"['gender:1', 'last_name:james']"
+Community 2,105453317522683443187,[]
+Community 2,109306316429433053213,[]
+Community 2,112968305388793808815,"['gender:1', 'job_title:and', 'job_title:enthusiast.', 'job_title:live', 'job_title:not', 'job_title:photographer', 'job_title:to', 'job_title:work', 'last_name:jack']"
+Community 2,107589895345000267917,"['gender:1', 'job_title:also', 'job_title:and', 'job_title:anything', 'job_title:at', 'job_title:can', 'job_title:computer', 'job_title:good', 'job_title:i', 'job_title:if', 'job_title:it', 'job_title:problem', 'job_title:software', 'job_title:solver.', 'job_title:someone', 'job_title:to', 'job_title:you', 'last_name:brian']"
+Community 2,108986482395975467331,['job_title:nurse']
+Community 2,114822401067576646327,"['gender:2', 'job_title:engineer', 'job_title:software']"
+Community 2,113687916808174552540,"['gender:1', 'institution:Google', 'institution:SayNow', 'job_title:engineer', 'job_title:google', 'last_name:bob', 'place:Ashburn,', 'place:Hampton,', 'place:Palo']"
+Community 2,112266407581402154086,[]
+Community 2,104896537673470410734,"['gender:1', 'institution:Google', 'place:Beirut,', 'place:San', 'place:Santa']"
+Community 2,106073502505833617615,"['gender:2', 'place:Asheville,', 'place:Atlanta,', 'place:Baltimore,', 'place:Chicago,', 'place:Dallas,', 'place:Denver,', 'place:Houston,', 'place:Kansas', 'place:Los', 'place:Memphis,', 'place:Miami,', 'place:Minneapolis,', 'place:New', 'place:Philadelphia,', 'place:Phoenix,', 'place:Salt', 'place:San', 'place:Tallahassee,']"
+Community 2,108080970085621717187,[]
+Community 2,105161826956932743650,[]
+Community 2,105421360534824524100,"['gender:1', 'job_title:consultant', 'job_title:it']"
+Community 2,101494804320126833381,"['gender:2', 'job_title:artist,', 'job_title:blogger,', 'job_title:graphic']"
+Community 2,117231658988287858700,"['gender:2', 'job_title:media', 'job_title:presence', 'job_title:social', 'job_title:specialist', 'last_name:amy']"
+Community 2,100188557028585168265,"['gender:2', 'last_name:linda']"
+Community 2,112903919681703164454,"['gender:2', 'job_title:i', 'job_title:my', 'place:Los']"
+Community 2,110255709702147736441,"['gender:1', 'last_name:daniel', 'university:University']"
+Community 2,104973761519912571719,"['gender:2', 'job_title:&', 'job_title:associate', 'place:Arlington,', 'place:Edmonton,', 'place:Phoenix,', 'place:Scottsdale,', 'place:Tempe,', 'place:Washington,', 'university:Arizona']"
+Community 2,111161779241537203959,"['job_title:web', 'last_name:seth']"
+Community 2,103130481151838170197,[]
+Community 2,112016573893269448710,"['gender:1', 'place:Boston', 'place:Sydney', 'university:Berklee']"
+Community 2,104068455053275435149,['gender:1']
+Community 2,109861075689715799208,"['gender:1', 'last_name:steve']"
+Community 2,103945298130957582851,"['gender:2', 'place:Brussels,', 'university:non-ascii_883']"
+Community 2,110107562591980573545,"['gender:1', 'job_title:financial', 'job_title:seo,', 'job_title:specialist']"
+Community 2,102898672602346817738,"['gender:1', 'job_title:and', 'job_title:host', 'job_title:news', 'job_title:show', 'last_name:dan', 'place:Brussels,', 'place:London,', 'place:Monrovia,', 'place:Okinawa,']"
+Community 2,115221212267692323988,"['gender:1', 'last_name:michael']"
+Community 2,102135222412427650111,"['gender:1', 'last_name:jason']"
+Community 2,113965941618509981423,"['gender:1', 'last_name:john', 'place:Tucson,', 'university:University']"
+Community 2,102219475968800204884,"['gender:3', 'institution:Google', 'institution:IBM', 'university:']"
+Community 2,109965539845859227967,[]
+Community 2,100432553261066087651,[]
+Community 2,118321154050442304599,"['gender:2', 'last_name:maria', 'place:Honolulu', 'place:Los']"
+Community 2,104109276791574356880,"['gender:1', 'job_title::', 'job_title:out', 'job_title:the', 'last_name:david', 'place:Seattle']"
+Community 2,107101208158314368393,"['gender:1', 'job_title:change', 'job_title:next', 'job_title:person', 'job_title:the', 'job_title:you', 'job_title:your', 'place:Vincennes,']"
+Community 2,117596712775912423303,"['gender:1', 'job_title:administrator']"
+Community 2,103637162978776725632,"['gender:1', 'last_name:andy', 'place:Ft.', 'place:Louisville,', 'place:Nashville,']"
+Community 2,112754494243408214081,"['gender:2', 'place:Miami,']"
+Community 2,108270712126515524163,"['gender:2', 'last_name:jamie']"
+Community 2,103533326117556337218,"['gender:1', 'job_title:and', 'job_title:designer', 'job_title:product', 'last_name:michael']"
+Community 2,113998127376703212360,"['gender:1', 'job_title:google']"
+Community 2,117665613028757061169,['last_name:m']
+Community 2,115121555137256496805,"['gender:1', 'job_title:contributor.', 'job_title:enthusiast.', 'place:Virginia', 'university:American']"
+Community 2,110507996978242488651,"['gender:1', 'job_title:artist', 'job_title:aspiring', 'job_title:design,', 'job_title:writing,', 'place:new']"
+Community 2,115558779859554883235,[]
+Community 2,104672614700283598130,"['gender:2', 'job_title:artist', 'place:Amsterdam,', 'place:Austin,', 'place:Boulder,', 'place:Charleston,', 'place:Chennai,', 'place:Seattle,', 'place:Washington,']"
+Community 2,107126665887970596868,"['gender:2', 'job_title:architect', 'job_title:systems', 'job_title:technology', 'last_name:karen']"
+Community 2,117007141540857946331,[]
+Community 2,108588076582379537686,['gender:2']
+Community 2,115702306533209355625,"['gender:1', 'job_title:reporter', 'job_title:television', 'last_name:eric']"
+Community 2,102712302351237374309,['gender:1']
+Community 2,111198710867103101505,"['gender:2', 'job_title:and', 'job_title:at', 'job_title:home', 'job_title:national', 'job_title:student', 'last_name:heather', 'place:Maryland', 'university:University']"
+Community 2,115234935608991455556,"['gender:2', 'job_title:consultant', 'job_title:media', 'job_title:social', 'university:none']"
+Community 2,117298449774201305386,"['gender:1', 'last_name:brian']"
+Community 2,114197829616375652831,[]
+Community 2,110106586947414476573,"['gender:1', 'job_title:developer,', 'job_title:web', 'last_name:robert']"
+Community 2,117353660349845808660,"['gender:1', 'job_title:engineer', 'job_title:software', 'place:Hong', 'place:Los', 'place:Oakland']"
+Community 2,115937548467085433876,"['gender:1', 'job_title:-', 'job_title:executive', 'job_title:of', 'job_title:photographer,', 'job_title:photojournalist', 'job_title:vp', 'last_name:vincent', 'place:California', 'university:SFSU']"
+Community 2,109434154213098606351,"['job_title:musician', 'place:Austin,', 'place:Tempe,', 'university:Arizona', 'university:University']"
+Community 2,100384356912885326394,[]
+Community 2,101494259043249553389,[]
+Community 2,111515517959993316206,[]
+Community 2,102606531566113441640,[]
+Community 2,109463198825262877115,"['gender:1', 'last_name:mark']"
+Community 2,111937360718773567818,[]
+Community 2,117612501033972223750,"['gender:1', 'job_title:design,', 'job_title:support', 'job_title:tech', 'job_title:writing,', 'last_name:michael']"
+Community 2,106306771055224212482,[]
+Community 2,103181848666629026653,"['gender:1', 'job_title:about', 'job_title:be', 'job_title:broadcaster,', 'job_title:broadcaster;', 'job_title:internet', 'job_title:sports', 'job_title:television', 'job_title:to', 'job_title:travel', 'last_name:edward', 'university:University']"
+Community 2,112724541174117620122,[]
+Community 2,110785984091746943149,[]
+Community 2,106036588985851683922,"['gender:1', 'institution:', 'job_title:-', 'job_title:doing', 'job_title:things.', 'last_name:bruce']"
+Community 2,114579585661410116649,"['gender:1', 'job_title:thinker', 'last_name:robert']"
+Community 2,104338841195844391499,['gender:1']
+Community 2,103171533792240062855,[]
+Community 2,113518697815635920172,"['gender:1', 'job_title:student', 'place:Chennai,']"
+Community 2,108505558087127895508,"['gender:2', 'job_title:/', 'job_title:and', 'job_title:aspiring', 'job_title:event', 'job_title:manager', 'university:Austin']"
+Community 2,117299545239997513672,[]
+Community 2,102615863344410467759,"['gender:2', 'last_name:christina', 'place:Columbus,', 'place:Conway,', 'place:Houston,', 'place:Sydney,', 'place:Washington,']"
+Community 2,106215718640234782825,['gender:2']
+Community 2,115029186078239273995,"['gender:2', 'job_title:&', 'job_title:fine', 'job_title:photographer', 'university:University']"
+Community 2,112366735963271550830,"['gender:2', 'place:Berkeley,', 'place:Boston,', 'place:Evanston,', 'place:London,', 'place:Toronto,', 'university:University']"
+Community 2,112652642866960214917,"['gender:1', 'job_title:/', 'job_title:actor', 'job_title:artist', 'job_title:director', 'job_title:musician', 'job_title:photographer', 'job_title:writer', 'job_title:youtuber']"
+Community 2,111499475665106694998,"['gender:1', 'job_title:and', 'job_title:ceo,', 'job_title:president', 'place:Dallas', 'place:Honolulu', 'place:Los', 'place:Portland']"
+Community 2,115490868856377625184,"['gender:1', 'job_title:&', 'job_title:missouri', 'job_title:photographer', 'job_title:travel', 'last_name:aaron']"
+Community 2,108997795964011637689,[]
+Community 2,106098286123499266853,"['gender:2', 'last_name:stephanie']"
+Community 2,117059593834355077199,"['gender:1', 'place:Charleston,', 'place:Denver,', 'place:Houston,', 'place:San']"
+Community 2,113468937158877720503,['gender:1']
+Community 2,114092052797730247075,"['gender:1', 'job_title:at', 'job_title:geek', 'job_title:tech', 'last_name:dave', 'place:England']"
+Community 2,113849626686834175214,['gender:1']
+Community 2,100613758025489484795,"['job_title:human', 'place:Corpus', 'place:Dallas,', 'place:Virginia']"
+Community 2,105324761189549512199,"['gender:2', 'job_title:anchor', 'job_title:columbia,', 'job_title:in', 'job_title:missouri', 'job_title:news', 'university:non-ascii_883']"
+Community 2,111455687366448679827,"['gender:2', 'job_title:&', 'job_title:advocate', 'job_title:and', 'job_title:business', 'job_title:developer', 'job_title:emergency', 'job_title:life', 'job_title:nonprofit', 'job_title:product', 'job_title:writer', 'job_title:|', 'university:University']"
+Community 2,115829854934725647908,"['gender:1', 'job_title:photographer', 'place:Maryland', 'place:New']"
+Community 2,117596714593877854987,"['gender:1', 'job_title:architect', 'place:Pittsburgh,', 'place:St.']"
+Community 2,117861338670157326726,"['gender:1', 'institution:IBM', 'job_title:blogger,', 'job_title:developer,', 'job_title:podcaster,', 'job_title:web', 'place:Louisville,', 'place:Milwaukee,', 'place:Minneapolis,', 'place:San', 'place:Urbana,', 'place:Vancouver,', 'university:University']"
+Community 2,111066716680402389980,[]
+Community 2,108739566092524292248,[]
+Community 2,105089961750729001526,['gender:1']
+Community 2,113420422244530728570,"['gender:2', 'job_title:-', 'job_title:youtuber', 'last_name:maria']"
+Community 2,101171100798988839208,[]
+Community 2,116772708792764352748,"['gender:1', 'job_title:developer', 'job_title:website', 'last_name:tom', 'place:Los', 'place:San', 'place:Sarasota,']"
+Community 2,113515396686929218858,"['gender:1', 'institution:YouTube', 'job_title:youtube']"
+Community 2,109053233996223373700,[]
+Community 2,110899709105002539146,"['gender:1', 'job_title:a', 'job_title:of', 'last_name:robert', 'place:Bellevue,', 'place:Cambridge,', 'place:Florida', 'place:Illinois', 'place:Monterey,', 'place:San', 'place:Texas']"
+Community 2,117126068236790799917,['last_name:lisa']
+Community 2,103941535737693167905,[]
+Community 2,104449102503528602799,[]
+Community 2,100622502206917250723,"['gender:1', 'last_name:george']"
+Community 2,101852559274654726533,"['job_title:and', 'job_title:development', 'job_title:software', 'last_name:allen']"
+Community 2,100251061855880028382,"['gender:2', 'job_title:researcher']"
+Community 2,101171090700644838416,"['gender:1', 'job_title:fire']"
+Community 2,107672251758752795256,[]
+Community 2,105619612583444501317,"['gender:1', 'last_name:harold']"
+Community 2,108632686412421589637,"['gender:1', 'institution:Google', 'job_title:a', ""job_title:i'm"", 'job_title:problem', 'job_title:solver.', 'last_name:alex']"
+Community 2,104119608064940163872,"['gender:1', 'institution:YouTube', 'job_title:a', 'job_title:architect', 'job_title:architecture', 'job_title:at', 'job_title:for', 'job_title:full', 'job_title:my', 'job_title:national', 'job_title:own', 'job_title:part', 'job_title:services.', 'job_title:the', 'job_title:time', 'last_name:johnathan', 'place:Austin,', 'place:New', 'university:Michigan']"
+Community 2,105574566053602019710,"['gender:1', 'job_title:computer', 'job_title:consultant', 'last_name:brian', 'place:Boise,']"
+Community 2,116342937492510737097,"['gender:3', 'job_title:&', 'job_title:game', 'job_title:happiness', 'place:New', 'place:Sydney', 'university:University']"
+Community 2,112992320954091012527,['gender:1']
+Community 2,102712928223774132007,[]
+Community 2,106677933862286361195,"['gender:1', 'job_title:engineer', 'job_title:software', 'last_name:troy', 'place:Toronto', 'university:Seneca']"
+Community 2,103614891582957065589,"['gender:1', 'job_title:student']"
+Community 2,102780726906835902473,"['gender:1', 'job_title:art,', 'job_title:business', 'job_title:development', 'job_title:graphic', 'job_title:marketing,', 'job_title:sales,', 'job_title:writing,', 'last_name:frank']"
+Community 2,118120125065490798361,"['gender:1', 'last_name:josh']"
+Community 2,108935919227013334216,[]
+Community 2,115307003069691533470,"['gender:1', 'job_title:and', 'job_title:for', 'job_title:online', 'last_name:michael', 'place:los']"
+Community 2,111041461103936222764,"['gender:1', 'institution:YouTube', 'job_title:partner', 'job_title:youtube', 'last_name:matthew', 'place:Melbourne']"
+Community 2,111083308375001753987,"['gender:1', 'job_title:developer', 'job_title:game', 'job_title:indie', 'last_name:richard', 'place:Kansas', 'place:Philippines', 'place:San']"
+Community 2,113388583425316146503,"['gender:2', 'job_title:a', 'job_title:good', 'job_title:is', 'job_title:relations', 'job_title:something', 'job_title:sports', 'place:Las', 'place:Tucson,', 'university:University']"
+Community 2,117888860379667170672,"['gender:1', 'job_title:coffee', 'job_title:i', 'job_title:love']"
+Community 2,102381143844646970586,[]
+Community 2,100813229168405788654,"['gender:2', 'institution:Self', 'job_title:&', 'job_title:artist', 'job_title:director', 'job_title:marketing', 'job_title:online', 'last_name:jackie']"
+Community 2,116293310171313567533,"['gender:2', 'job_title:artist,', 'job_title:author,', 'job_title:consultant,', 'university:San']"
+Community 2,114520316604615393902,[]
+Community 2,108131708344427352812,[]
+Community 2,112165530991102646166,['gender:1']
+Community 2,116208861859952939921,[]
+Community 2,102668364885894493476,"['gender:1', 'institution:CBS', 'job_title:&', 'job_title:communications', 'job_title:marketing', 'job_title:vp', 'last_name:craig', 'place:Rockville,', 'university:George', 'university:University']"
+Community 2,115314883913773500000,"['gender:1', 'job_title:-', 'job_title:a', 'job_title:about', 'job_title:hangout', 'job_title:host', 'job_title:show', 'job_title:talk', 'last_name:george', 'place:Auburn,', 'place:Seattle,']"
+Community 2,103958441795544241153,"['gender:1', 'job_title:certified', 'job_title:designer,', 'job_title:graphic', 'job_title:illustrator,', 'job_title:professional', 'last_name:tim', 'place:Albany,', 'place:Boston,', 'place:Rochester,']"
+Community 2,116795563095981607931,[]
+Community 2,102528718122061029071,"['gender:1', 'job_title:engineer', 'job_title:software', 'place:San']"
+Community 2,114930558215776389910,[]
+Community 2,104751214491331749866,['gender:2']
+Community 2,114255121290044538178,[]
+Community 2,116046131107486389598,"['gender:2', 'job_title:aspiring', 'place:New', 'university:']"
+Community 2,104317168426965250046,"['gender:1', 'job_title:design,', 'job_title:marketing,', 'job_title:photographer,', 'job_title:social', 'job_title:stuff,', 'job_title:website', 'last_name:tom', 'place:California', 'place:Florida', 'place:New', 'place:South', 'place:Texas', 'place:USA']"
+Community 2,112509132460368995491,"['gender:1', 'job_title:broker', 'job_title:estate', 'job_title:real']"
+Community 2,113186623583029971455,"['gender:2', 'institution:Google', 'job_title:&', 'job_title:community', 'job_title:google+', 'job_title:hangouts', 'place:Ann', 'place:London,', 'place:Los', 'place:Madison,']"
+Community 2,108943292771761383631,[]
+Community 2,106984799703718932520,[]
+Community 2,103038287804535196503,"['gender:2', 'job_title:actress', 'job_title:and', 'job_title:developer', 'job_title:web']"
+Community 2,107852024581506537873,[]
+Community 2,108575961322871913333,"['gender:2', 'job_title:full', 'job_title:student,', 'job_title:time', 'last_name:nicole']"
+Community 2,116166660014087779586,"['gender:2', 'job_title:-', 'job_title:creative', 'job_title:executive', 'job_title:marketing', 'job_title:media', 'job_title:photography', 'job_title:producer', 'job_title:social', 'job_title:strategist', 'last_name:sara', 'university:Berklee']"
+Community 2,108152252385291870699,"['gender:2', 'job_title:to', 'job_title:you']"
+Community 2,112011605270017123101,"['gender:2', 'job_title:life', 'job_title:professional', 'last_name:stephanie']"
+Community 2,100512649718649402368,"['gender:1', 'institution:Google', 'institution:Microsoft', 'job_title:engineer', 'job_title:software', 'last_name:david', 'place:San']"
+Community 2,115940511630531767202,"['gender:1', 'job_title:computer', 'job_title:writer', 'last_name:paul']"
+Community 2,102492519891813011260,"['gender:1', 'institution:Google', 'job_title:internet', 'last_name:lesley', 'place:New', 'place:USA']"
+Community 2,110221517713911114909,[]
+Community 2,114489896421633993927,"['gender:1', 'job_title:engineer', 'job_title:software', 'last_name:ahmed', 'place:Amman', 'place:Jeddah', 'place:Rome']"
+Community 2,109200005789377605617,[]
+Community 2,117843617175570491498,"['gender:1', 'job_title:designer,', 'job_title:graphic', 'job_title:media,', 'job_title:photographer,', 'job_title:social', 'job_title:writer,', 'place:non-ascii_653', 'place:London']"
+Community 2,100266095938377120335,['last_name:karen']
+Community 2,115471815788264818704,"['gender:1', 'job_title:artist']"
+Community 2,117958363368979774542,"['gender:2', 'last_name:sharon']"
+Community 2,109440206780255757543,"['gender:2', 'job_title:and', 'job_title:of', 'job_title:part-time', 'job_title:photographer.', 'job_title:writer']"
+Community 2,105496065140915063217,"['gender:1', 'job_title:global', 'job_title:news', 'last_name:cliff', 'university:New']"
+Community 2,113797508378819391794,"['gender:1', 'job_title:blogger', 'job_title:consultant', 'job_title:from', 'job_title:hangout', 'job_title:media', 'job_title:new', 'job_title:on', 'job_title:photographer', 'job_title:professional', 'job_title:the', 'last_name:mike']"
+Community 2,110556772494804817339,"['gender:1', 'place:Dallas,']"
+Community 2,113383623452399451554,['last_name:jason']
+Community 2,104028329852681318179,"['gender:2', 'job_title:writer.']"
+Community 2,112809556036676880852,[]
+Community 2,113381483153888636532,"['gender:2', 'job_title:administrator', 'job_title:network', 'last_name:christy']"
+Community 2,108502670315441311095,['gender:2']
+Community 2,102533732658641069172,"['gender:2', 'job_title:i', 'job_title:people', 'job_title:things', 'last_name:linda']"
+Community 2,104507233842972305384,"['gender:1', 'job_title:and', 'job_title:artist,', 'job_title:do', 'job_title:film', 'job_title:i', 'job_title:if', 'job_title:it', 'job_title:maker', 'job_title:money', 'job_title:musician', 'job_title:writer,']"
+Community 2,116593428335526725448,"['gender:1', 'job_title:for', 'job_title:in', 'job_title:the', 'job_title:work', 'last_name:kirk', 'place:Williamstown,', 'university:Williams']"
+Community 2,110363820747461775831,[]
+Community 2,116942397717536105883,"['gender:1', 'last_name:paul']"
+Community 2,110607703709700799337,"['gender:1', 'job_title:event', 'job_title:support', 'job_title:technician', 'last_name:steve']"
+Community 2,117603418437094018321,"['gender:1', 'last_name:george']"
+Community 2,100329511310247227785,[]
+Community 2,105489064367742025310,"['gender:2', 'place:Pensacola,']"
+Community 2,113484544313014606167,"['gender:1', 'last_name:edward', 'university:Fordham']"
+Community 2,113946715443571015123,"['gender:1', 'last_name:scott']"
+Community 2,112301869379652563135,"['gender:1', 'institution:Apple', 'job_title:and', 'job_title:blogger,', 'job_title:tech', 'job_title:writer,', 'last_name:matt', 'place:Round', 'place:Victoria,']"
+Community 2,116581478643467215892,"['gender:2', 'job_title:a', 'job_title:and', 'job_title:like', 'job_title:our', 'job_title:someone', 'job_title:to', 'job_title:when']"
+Community 2,103739686836221835119,"['gender:1', 'job_title:/', 'job_title:and', 'job_title:company', 'job_title:entrepreneur', 'job_title:g+', 'job_title:hangouts', 'last_name:joe', 'place:Dallas,', 'university:Southern']"
+Community 2,112878018292881361436,[]
+Community 2,102886708431831530206,"['gender:1', 'job_title:development', 'job_title:director', 'job_title:of', 'job_title:product', 'place:Hillsboro,', 'place:Santa']"
+Community 2,105233832085687188676,"['gender:1', 'job_title:designer', 'job_title:web', 'last_name:jonathan']"
+Community 2,106572298019121580582,"['gender:1', 'institution:YouTube', 'last_name:shane']"
+Community 2,100974258168375166691,"['gender:2', 'job_title:artist', 'job_title:recording']"
+Community 2,116354326277822099288,"['gender:1', 'place:Brooklyn,']"
+Community 2,115516333681138986628,"['job_title:google+', 'job_title:the', 'job_title:to', 'job_title:user', 'last_name:ryan', 'place:Chicago,']"
+Community 2,108808011895597334215,[]
+Community 2,113141491911286106535,[]
+Community 2,116973390574320264137,"['gender:1', 'institution:Google', 'institution:SayNow', 'last_name:loren']"
+Community 2,118422403820332162855,[]
+Community 2,115822767084216096089,[]
+Community 2,112364540357127470935,"['gender:1', 'job_title:communications', 'job_title:international', 'job_title:of', 'last_name:stephen']"
+Community 2,109711721158856077787,['gender:2']
+Community 2,109407911046572406406,[]
+Community 2,104487223275138277820,"['gender:1', 'job_title:ninja', 'last_name:tony', 'place:Milwaukee,']"
+Community 2,102130162677679828120,"['gender:1', 'last_name:matthew']"
+Community 2,112561860864020930009,"['gender:2', 'job_title:vlogger,', 'place:Austin,', 'place:Phoenix,', 'university:Arizona']"
+Community 2,100474212268833373292,[]
+Community 2,111839842894509555034,[]
+Community 2,100969232856312001330,"['gender:3', 'job_title:and', 'job_title:at', 'job_title:change', 'job_title:of', 'job_title:student']"
+Community 2,110829304592314630889,[]
+Community 2,114424163811716070551,"['gender:1', 'job_title:&', 'job_title:in', 'job_title:technology', 'last_name:johnathan']"
+Community 2,111698095221811879818,['gender:1']
+Community 2,112859244767729828637,[]
+Community 2,102287469036218621421,['gender:1']
+Community 2,116588548596017884744,[]
+Community 2,100651621769656849775,"['gender:2', 'job_title:-', 'job_title:consultant', 'job_title:designer', 'job_title:media', 'job_title:social', 'job_title:speaker', 'job_title:specialist', 'job_title:web', 'last_name:kim']"
+Community 2,104021297424881076290,[]
+Community 2,117087402937869787406,"['gender:1', 'job_title:a', 'job_title:and', 'job_title:as', 'job_title:computer', 'job_title:contributor.', 'job_title:currently', 'job_title:for', 'job_title:from', 'job_title:home', 'job_title:or', 'job_title:searching', 'job_title:something', 'job_title:support', 'job_title:tech', 'job_title:unemployed', 'job_title:work', 'last_name:cliff', 'place:Houston,', 'place:West']"
+Community 2,117413551943364608805,[]
+Community 2,105656674180913666200,"['job_title:and', 'job_title:composer,', 'last_name:alan', 'university:Indiana']"
+Community 2,101766891673708330530,"['gender:1', 'job_title:administration', 'job_title:and', 'job_title:as', 'job_title:design,', 'job_title:geeky', 'job_title:me', 'job_title:much', 'job_title:network', 'job_title:to', 'job_title:you', 'last_name:jeff', 'university:school']"
+Community 2,110875483775097751219,"['gender:1', 'last_name:chris', 'place:California']"
+Community 2,103030116155431184588,"['gender:1', 'job_title:and', 'job_title:community', 'job_title:designer', 'job_title:manager,', 'job_title:media', 'job_title:social', 'job_title:web', 'last_name:ahmed', 'place:London']"
+Community 2,102087257702756628549,"['gender:1', 'job_title:comedian,', 'job_title:lover', 'job_title:podcast', 'job_title:producer,', 'job_title:video', 'job_title:viral', 'last_name:brian']"
+Community 2,109980146256159069408,[]
+Community 2,115360504592641443999,"['gender:1', 'job_title:broker', 'job_title:estate', 'job_title:real', 'place:Washington,']"
+Community 2,107023475113646570269,"['gender:1', 'job_title:and', 'job_title:film', 'job_title:maker', 'job_title:photographer']"
+Community 2,110345156976813195439,"['gender:2', 'last_name:michelle', 'university:non-ascii_883']"
+Community 2,103912692648389663190,"['gender:1', 'last_name:chris']"
+Community 2,113255240335204167235,"['gender:1', 'job_title:broadcaster,', 'job_title:live', 'job_title:media', 'job_title:social', 'job_title:tools', 'job_title:video', 'last_name:michael']"
+Community 2,107747666102379771298,"['gender:1', 'last_name:shawn']"
+Community 2,107771181372242547518,"['gender:1', 'job_title:-', 'job_title:freelance', 'job_title:painter', 'last_name:paul', 'place:Chicago,']"
+Community 2,111776370104933282203,[]
+Community 2,113900617513663731605,[]
+Community 2,113881433443048137993,"['gender:2', 'job_title:engineer', 'job_title:web', 'place:Philippines', 'university:University']"
+Community 2,108842492591796792953,"['gender:1', 'last_name:adam']"
+Community 2,111112297042090413630,"['gender:1', 'job_title:an', 'job_title:and', 'job_title:effects', 'job_title:for', 'job_title:how', 'job_title:human', 'job_title:i', 'job_title:in', 'job_title:interest', 'job_title:is', 'job_title:it', 'job_title:more', 'job_title:of', 'job_title:our', 'job_title:part', 'job_title:technology', 'job_title:technology,', 'job_title:the', 'job_title:this', 'job_title:verified']"
+Community 2,113849854505123227374,"['gender:1', 'last_name:andrew']"
+Community 2,104538563453861838640,[]
+Community 2,117473477005177317943,['gender:2']
+Community 2,110592217550794732321,"['gender:1', 'job_title:&', 'job_title:ceo', 'job_title:founder', 'place:Nashville,']"
+Community 2,102538905206519918173,"['gender:1', 'job_title:&', 'job_title:musician,', 'job_title:networking', 'job_title:technology', 'last_name:andy', 'place:Arlington,', 'place:Boston,', 'place:Fairfax,']"
+Community 2,116196404021952428596,[]
+Community 2,108291790892450338168,"['gender:1', 'institution:YouTube', 'place:Raleigh,']"
+Community 2,103170649990710136632,"['gender:1', 'last_name:steve', 'place:Detroit,']"
+Community 2,112623464177403117558,"['job_title:developer', 'job_title:web', 'last_name:chris']"
+Community 2,110139793201519692307,"['gender:1', 'job_title:consultant', 'job_title:it', 'last_name:bruce']"
+Community 2,108523962860904481095,[]
+Community 2,116909315521951049368,[]
+Community 2,109745932501512349659,[]
+Community 2,101600394231100833788,"['gender:1', 'job_title:branding,', 'job_title:marketing,', 'last_name:chris']"
+Community 2,116971095029701257834,"['gender:2', 'institution:Intel', 'institution:Microsoft', 'job_title:lead', 'job_title:media', 'place:Amherst,', 'place:Cambridge,', 'place:New', 'place:Portland,', 'place:Salt', 'university:UMass']"
+Community 2,101861996949895074943,"['gender:1', 'last_name:zach']"
+Community 2,115749701515945147883,[]
+Community 2,106268128704132883440,"['gender:1', 'job_title:and', 'job_title:author,', 'job_title:executive', 'job_title:host,', 'job_title:international', 'job_title:producer,', 'job_title:sales', 'job_title:speaker', 'job_title:television', 'job_title:training', 'place:Charlotte,', 'place:Detroit,']"
+Community 2,109499411748464808418,[]
+Community 2,100294111140576581930,['gender:2']
+Community 2,108187577207608337534,"['gender:1', 'job_title:a', 'job_title:am', 'job_title:and', 'job_title:currently', 'job_title:i', 'job_title:unemployed', 'last_name:michael', 'place:Maryland']"
+Community 2,108759270777800830775,"['gender:1', 'job_title:architect', 'job_title:software', 'place:los']"
+Community 2,109602109099036550366,"['gender:1', 'job_title:artist,', 'job_title:freelance', 'job_title:hangout', 'job_title:professional', 'last_name:cliff']"
+Community 2,116792118744662189562,"['gender:2', 'job_title:&', 'job_title:internet', 'job_title:marketing', 'job_title:strategy', 'university:University']"
+Community 2,115020920324331583957,['gender:2']
+Community 2,112269391908122006530,[]
+Community 2,103684974087620751394,"['gender:1', 'job_title:internet', 'job_title:media', 'job_title:new', 'last_name:craig']"
+Community 2,116825592843709362934,[]
+Community 2,112139555141728231689,"['gender:1', 'job_title:radio']"
+Community 2,101267965565111472719,"['gender:1', 'job_title:-', 'job_title:ceo', 'job_title:with', 'last_name:kevin']"
+Community 2,110735228167430300745,"['gender:1', 'job_title:amateur', 'job_title:an', 'job_title:host', 'job_title:podcast', 'job_title:radio', 'job_title:site', 'last_name:tom']"
+Community 2,106659586779486287121,['gender:1']
+Community 2,114728245424310221692,"['gender:1', 'job_title::', 'job_title:a', 'job_title:also', 'job_title:an', 'job_title:and', 'job_title:art,', 'job_title:at', 'job_title:business', 'job_title:camera', 'job_title:design,', 'job_title:google+', 'job_title:i', 'job_title:if', 'job_title:in', 'job_title:is', 'job_title:me', 'job_title:music,', 'job_title:my', 'job_title:on', 'job_title:own', 'job_title:photographer,', 'job_title:say', 'job_title:to', 'job_title:travel', 'job_title:what', 'job_title:you', 'job_title:your', 'last_name:jason', 'place:Staten', 'university:School']"
+Community 2,105275638908165446414,['gender:1']
+Community 2,116578863493864261470,"['gender:1', 'job_title:-', 'job_title:llc', 'job_title:managing', 'job_title:partner', 'university:Sonoma']"
+Community 2,117283174365630308265,"['gender:1', 'job_title:life', 'last_name:dane']"
+Community 2,116805285176805120365,"['gender:1', 'job_title:and', 'job_title:designer,', 'job_title:engineer,', 'job_title:gamer,', 'job_title:wannabe', 'place:Beirut,', 'place:Waterloo,']"
+Community 2,118297780429110098708,"['gender:2', 'job_title:do', 'job_title:i', 'place:Ann', 'place:London,', 'place:Los', 'place:New']"
+Community 2,109172813571934524948,"['gender:1', 'job_title:designer', 'job_title:photographer']"
+Community 2,117504637174147176333,[]
+Community 2,109649264094810211637,[]
+Community 2,107794901657046516409,"['gender:1', 'last_name:sean', 'place:Toronto,']"
+Community 2,106201641485302515655,"['gender:2', 'job_title:and', 'job_title:business', 'job_title:development,', 'job_title:for', 'job_title:i', 'job_title:internet', 'job_title:is', 'job_title:life', 'job_title:love', 'job_title:management,', 'job_title:money', 'job_title:my', 'job_title:of', 'job_title:product', 'job_title:something', 'job_title:that', 'job_title:the', 'job_title:through', 'job_title:work', 'place:Amman', 'place:Boston', 'place:Chicago', 'place:Dubai', 'place:Jeddah']"
+Community 2,109342148209917802565,"['gender:1', 'job_title:audio', 'job_title:coffee', 'job_title:composer', 'job_title:designer', 'job_title:editor', 'job_title:engineer', 'job_title:ninja', 'job_title:pro', 'job_title:tools', 'place:Toronto']"
+Community 2,115287640704144951783,[]
+Community 2,105474544524715065767,"['gender:1', 'job_title:writer']"
+Community 2,107553326043454394306,[]
+Community 2,100675517463381490852,[]
+Community 2,113128191837051673707,[]
+Community 2,115135005437142391944,"['gender:1', 'job_title:photojournalist', 'job_title:retired']"
+Community 2,108991279185317231933,[]
+Community 2,108182489610762944351,"['gender:2', 'job_title:anything', 'job_title:do', 'job_title:i', 'last_name:christy', 'place:South', 'university:UCLA']"
+Community 2,113089996646628106127,"['gender:1', 'job_title:engineer', 'job_title:software', 'last_name:alex', 'place:Indianapolis,', 'place:San']"
+Community 2,106382433884876652170,"['gender:1', 'last_name:joe']"
+Community 2,109255183145564237493,"['gender:2', 'place:Conway,', 'place:Little']"
+Community 2,101885535290923906476,"['gender:1', 'job_title:and', 'job_title:food', 'job_title:the', 'place:Boca', 'place:Charlotte,', 'place:San', 'university:Fordham']"
+Community 2,111077535166060171805,['gender:3']
+Community 2,107313675531983974280,"['gender:1', 'last_name:patrick']"
+Community 2,113966331458433578834,[]
+Community 2,118011560178264222649,"['last_name:m', 'place:Austin,']"
+Community 2,101025269691961257466,[]
+Community 2,107207451447835171838,[]
+Community 2,114954712448394413847,"['gender:2', 'place:Vincennes,']"
+Community 2,115085828077786850700,"['gender:1', 'job_title:and', 'job_title:engineer', 'job_title:software', 'job_title:systems', 'job_title:through', 'job_title:|']"
+Community 2,102221942940843100503,"['gender:2', 'last_name:jessica']"
+Community 2,100186938589206311054,"['gender:1', 'job_title:architect,', 'job_title:artist,', 'job_title:founder', 'place:Rome,', 'place:Staten', 'place:Washington']"
+Community 2,103513848315989859608,[]
+Community 2,101881814901888951402,[]
+Community 2,112849818601770012364,[]
+Community 2,106310418483081420621,"['gender:2', 'job_title:student', 'place:Philadelphia', 'university:Pennsylvania']"
+Community 2,104621204832216628958,"['gender:1', 'last_name:david', 'place:New']"
+Community 2,117812416337165490346,"['gender:1', 'job_title:digital']"
+Community 2,106791138796860430554,[]
+Community 2,101397516006687049364,['last_name:scott']
+Community 2,101872015774361781592,"['gender:1', 'job_title:coordinator,', 'job_title:happiness', 'last_name:ryan']"
+Community 2,103741803705028185417,[]
+Community 2,103814888866762876902,"['gender:1', 'institution:Morgan', 'job_title:and', 'job_title:business', 'job_title:development', 'place:New', 'place:Washington,', 'place:Watertown,']"
+Community 2,108167150134506196220,[]
+Community 2,111048918866742956374,"['gender:1', 'job_title:&', 'job_title:actor,', 'job_title:director,', 'job_title:hangout', 'job_title:marketer', 'job_title:pro', 'job_title:social', 'job_title:writer,', 'last_name:matthew']"
+Community 2,107379489464447013340,"['gender:2', 'place:New', 'place:New', 'university:Duke']"
+Community 2,105216491640488683417,"['gender:2', 'job_title:illustrator', 'last_name:jennifer', 'place:California']"
+Community 2,108960343477388551490,"['gender:1', 'job_title:/', 'job_title:consultant', 'job_title:engineer', 'job_title:journalist', 'job_title:software', 'place:Hong', 'place:Toronto,', 'place:Vancouver,', 'university:University']"
+Community 2,116526029025767924065,[]
+Community 2,117344786984788205452,"['gender:1', 'job_title:illustrator', 'last_name:mike']"
+Community 2,103010542782798856787,[]
+Community 2,103618862132298404107,"['gender:1', 'job_title:and', 'job_title:architecture', 'job_title:development', 'job_title:web']"
+Community 2,111968283335829242217,[]
+Community 2,112353210404102902472,"['gender:1', 'last_name:eric']"
+Community 2,112502423728898124419,[]
+Community 2,102744398904875314224,[]
+Community 2,113316148669723868015,"['gender:1', 'job_title:engineer', 'job_title:software']"
+Community 2,103666049006309089442,['gender:1']
+Community 2,102218502614021519543,"['gender:1', 'job_title:and', 'job_title:for', 'job_title:things', 'last_name:eric']"
+Community 2,100976627641380642868,['gender:1']
+Community 2,100383526805651207186,"['gender:1', 'institution:', 'job_title:blogger,', 'job_title:student', 'job_title:writer,', 'place:Germany']"
+Community 2,115604024842201016447,['gender:1']
+Community 2,109717489110482080481,"['gender:1', 'job_title:developer', 'job_title:web', 'last_name:brian', 'place:Houston,', 'university:DeVry']"
+Community 2,114567575685117086123,[]
+Community 2,108514209999217721881,[]
+Community 2,109327237933872366138,"['gender:1', 'job_title:computer', 'job_title:gamer', 'job_title:networking', 'job_title:technician', 'job_title:|', 'last_name:shawn', 'place:Nashville,']"
+Community 2,106734796011714755852,"['job_title:/', 'job_title:and', 'job_title:it', 'job_title:support', 'job_title:web', 'last_name:brett', 'place:Atlanta,', 'place:Washington,']"
+Community 2,103263667465005102085,"['gender:1', 'last_name:paul']"
+Community 2,101465854435804471513,"['gender:1', 'last_name:rob']"
+Community 2,106922749016154628590,[]
+Community 2,107235245709526978427,"['gender:1', 'place:Champaign,', 'place:Chicago,', 'place:San', 'place:Washington,']"
+Community 2,103068825327398983563,['gender:1']
+Community 2,110815228753558444774,"['gender:1', 'institution:YouTube', 'job_title:build', 'job_title:can', 'job_title:engine', 'job_title:i', 'job_title:if', 'job_title:it', 'job_title:want', 'job_title:you', 'place:Buffalo,', 'place:Houston,', 'university:Massachusetts']"
+Community 2,104857406109954440836,"['gender:1', 'institution:', 'job_title:all', 'job_title:at', 'job_title:be', 'job_title:by', 'job_title:g+', 'job_title:hangout', 'job_title:my', 'job_title:nurse', 'job_title:to', 'job_title:verified', 'job_title:when', 'last_name:christopher']"
+Community 2,114765309169217444723,[]
+Community 2,107446552448005649461,"['job_title:a', ""job_title:i'm""]"
+Community 2,107323726887023845557,"['gender:2', 'institution:Missouri', 'job_title:11', 'job_title:@', 'job_title:columbia,', 'job_title:host', 'job_title:of', 'last_name:sarah', 'university:non-ascii_883']"
+Community 2,100961385622810058361,"['gender:2', 'job_title:consultant,', 'job_title:photographer', 'job_title:writer,']"
+Community 2,115342746161292961463,"['gender:1', 'last_name:mike']"
+Community 2,111548137920489485631,"['gender:1', 'job_title:and', 'job_title:consultant', 'job_title:marketing', 'job_title:media', 'job_title:online', 'job_title:social', 'last_name:harold']"
+Community 2,116889019895385244422,"['gender:1', 'job_title:consultant,', 'last_name:joseph']"
+Community 2,106680170153432597268,"['gender:1', 'job_title:engineer', 'job_title:software', 'last_name:joshua', 'place:Fresno,']"
+Community 2,107063456262289859086,"['gender:1', 'job_title:geek', 'job_title:radio', 'last_name:jim']"
+Community 2,106395472331944190977,[]
+Community 2,107816151350992757485,"['gender:1', 'job_title:office']"
+Community 2,104511933936275853523,"['gender:1', 'last_name:joe']"
+Community 2,101165143416503473580,[]
+Community 2,116845533997042633083,[]
+Community 2,108480231874301910354,"['gender:1', 'job_title:manager', 'job_title:media', 'job_title:social', 'last_name:christopher', 'university:University']"
+Community 2,107789623338445963350,[]
+Community 2,103627647584203022329,['gender:2']
+Community 2,100855797004917861250,"['gender:1', 'job_title:administration']"
+Community 2,114853458007065354930,"['gender:1', 'institution:Google', 'job_title:mobile', 'last_name:josh']"
+Community 2,111562638514922412630,"['gender:1', 'job_title:photographer', 'last_name:daniel', 'place:San']"
+Community 2,114468593663912084118,"['gender:1', 'job_title:design', 'job_title:i', 'job_title:things.', 'last_name:aaron']"
+Community 2,118328436599489401972,"['job_title:am', 'job_title:i', 'job_title:not', 'job_title:your', 'last_name:john']"
+Community 2,106012471647090911983,['gender:1']
+Community 2,115330849532868630924,"['gender:1', 'job_title:venture', 'last_name:david', 'place:Boston,', 'place:Cambridge,', 'place:Los', 'place:New', 'place:San']"
+Community 2,111753692932315740237,[]
+Community 2,108881125597447085896,"['gender:2', 'last_name:audrey']"
+Community 2,108413597447248376486,"['gender:1', 'job_title:director', 'last_name:daniel', 'place:Massachusetts']"
+Community 2,106273652560219611411,"['job_title:design', 'job_title:website', 'last_name:james']"
+Community 2,108541235642523883716,"['gender:1', 'job_title:&', 'job_title:blogger,', 'job_title:creator', 'job_title:event', 'job_title:for', 'job_title:host', 'job_title:live', 'job_title:of', 'job_title:podcaster', 'job_title:youtuber,', 'job_title:|', 'place:Atlanta,', 'place:Knoxville,', 'place:Memphis,', 'place:Pittsburgh,', 'place:Washington,', 'university:University']"
+Community 2,101252271355699391585,"['gender:1', 'last_name:pete', 'place:Dallas']"
+Community 2,102010353130079040444,"['gender:1', 'job_title:band', 'job_title:composer,', 'job_title:for', 'job_title:music', 'job_title:producer,', 'job_title:the']"
+Community 2,106532709318061274779,"['gender:1', 'job_title:entrepreneur', 'last_name:drew']"
+Community 2,107339337083351011695,[]
+Community 2,101292327494251658716,"['gender:1', 'institution:Google', 'job_title:at', 'job_title:engineer,', 'job_title:sales', 'job_title:team', 'job_title:technical', 'job_title:the', 'last_name:adam', 'university:Purdue']"
+Community 2,116640923223897011110,"['gender:2', 'job_title:+', 'job_title:a', 'job_title:also', 'job_title:amateur', 'job_title:and', 'job_title:blogs,', 'job_title:build', 'job_title:full', 'job_title:google', 'job_title:how', 'job_title:i', 'job_title:internet', 'job_title:life', 'job_title:love', 'job_title:managing', 'job_title:media', 'job_title:of', 'job_title:on', 'job_title:online', 'job_title:out', 'job_title:partner', 'job_title:photographer', 'job_title:presence', 'job_title:services.', 'job_title:social', 'job_title:through', 'job_title:to', 'job_title:training']"
+Community 3,101062649219544970331,"['gender:1', 'institution:Ask.com', 'job_title:analyst', 'job_title:editor,', 'job_title:industry', 'job_title:writer,', 'last_name:gary', 'place:Washington', 'university:University']"
+Community 3,111091089527727420853,"['gender:1', 'institution:Microsoft', 'job_title:for', 'job_title:liaison', 'job_title:searching', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+Community 3,112364132652438722780,"['gender:1', 'institution:CBS', 'institution:CNET', 'institution:Red', 'job_title:writer/editor']"
+Community 3,114487965928288927815,"['gender:1', 'institution:Mozilla', 'institution:Yahoo!', 'job_title:developer', 'job_title:web', 'last_name:les', 'place:Ann', 'place:Santa']"
+Community 3,117616695405326289061,"['gender:1', 'job_title:global', 'job_title:researcher', 'job_title:social', 'job_title:specialist', 'job_title:|', 'last_name:james']"
+Community 3,104625241288501781571,"['gender:1', 'institution:CMP', 'job_title:journalist', 'job_title:tech', 'place:Boston', 'place:Cambridge,', 'place:San', 'place:San']"
+Community 3,114274687956791581923,"['gender:2', 'job_title:writer', 'last_name:christina', 'place:Atlanta,', 'place:Brooklyn,']"
+Community 3,106312895983244085949,"['gender:1', 'place:Palo', 'place:San']"
+Community 3,108865224681518296173,"['gender:1', 'job_title:journalist', 'last_name:dan']"
+Community 3,115177816143495522325,"['gender:1', 'job_title:and', 'job_title:design', 'job_title:more', 'job_title:much', 'last_name:howard']"
+Community 3,104440241622894191867,"['gender:1', 'institution:Betanews', 'institution:PC', 'job_title:a', 'job_title:freelance', ""job_title:i'm"", 'job_title:technology', 'job_title:writer.', 'last_name:ed', 'university:Temple']"
+Community 3,107951823638685687042,"['gender:1', 'job_title:and', 'job_title:geek,', 'job_title:strategist', 'last_name:steve', 'place:Champaign,', 'place:Minneapolis,']"
+Community 3,101127849472046131831,"['gender:1', 'job_title:blogger', 'job_title:food', 'job_title:systems', 'job_title:writer,', 'last_name:jason', 'place:Washington,']"
+Community 3,105912966310368032981,"['gender:2', 'job_title:media', 'job_title:social']"
+Community 3,116426599319620195799,"['gender:1', 'institution:San', 'last_name:troy', 'university:Northwestern', 'university:non-ascii_883', 'university:University']"
+Community 3,100294995440554808691,['gender:1']
+Community 3,106724181552911298818,"['gender:1', 'job_title:american', 'job_title:at', 'job_title:blogger', 'job_title:blogger,', 'job_title:blogs,', 'job_title:columnist,', 'job_title:editor', 'job_title:editor-in-chief', 'job_title:entrepreneur.', 'job_title:of', 'job_title:partner', 'last_name:michael']"
+Community 3,100934380959521245889,"['gender:2', 'institution:', 'job_title:writer', 'place:Tel-Aviv,', 'place:Washington,', 'university:George']"
+Community 3,111666959095947698908,"['gender:1', 'institution:Gawker', 'job_title:editor-in-chief', 'job_title:of', 'last_name:adam', 'place:Iowa']"
+Community 3,113217924531763968801,"['gender:1', 'institution:Search', 'job_title:editor-in-chief,', 'job_title:engine', 'job_title:land', 'job_title:search', 'last_name:danny']"
+Community 3,104474227941534479648,"['gender:1', 'job_title:part-time', 'job_title:writer,', 'last_name:andrew', 'place:Irvine,', 'place:San']"
+Community 3,108082478497335384404,"['gender:1', 'job_title:&', 'job_title:and', 'job_title:ceo,', 'job_title:conference', 'job_title:founder']"
+Community 3,100307707863057679896,"['gender:1', 'last_name:richard', 'place:Edinburgh,']"
+Community 3,117396967625184275029,[]
+Community 3,103325969492772452485,['gender:2']
+Community 3,103486150650858067282,"['gender:1', 'job_title:&', 'job_title:marketing', 'job_title:photographer', 'job_title:strategist', 'job_title:web', 'last_name:jim']"
+Community 3,104304812570369572837,"['gender:1', 'job_title:and', 'job_title:financial', 'job_title:it', 'job_title:work', 'last_name:mark']"
+Community 3,104600296217176278045,"['gender:2', 'institution:ReadWriteWeb', 'job_title:&', 'job_title:/', 'job_title:analyst', 'job_title:for', 'job_title:sr.', 'job_title:strategist', 'job_title:tech', 'job_title:writer', 'last_name:dana', 'place:Vancouver,', 'place:Victoria,', 'university:University']"
+Community 3,106558624321906428377,"['gender:1', 'place:Auburn,', 'place:Tacoma,']"
+Community 3,110519684104194512717,"['gender:1', 'place:Kentucky']"
+Community 3,106952974709619007593,"['gender:1', 'job_title:science', 'job_title:writer', 'last_name:ed', 'place:']"
+Community 3,111310990991240556038,"['gender:1', 'last_name:gary']"
+Community 3,109606334218437330745,"['gender:3', 'institution:', 'job_title:blogger,', 'job_title:consultant,', 'job_title:journalist,', 'job_title:wannabe', 'job_title:writer,', 'place:Europe']"
+Community 3,103317683426269230303,['gender:1']
+Community 3,107833107845497630206,"['gender:1', 'institution:John', 'institution:Media', ""institution:O'Reilly"", 'institution:The', 'job_title:and', 'job_title:i', 'job_title:make', 'job_title:stuff,', 'job_title:things', 'place:Bangkok,', 'place:Houston,']"
+Community 3,110671547565979047871,"['gender:1', 'job_title:a', 'job_title:not', 'job_title:thinker,', 'last_name:scott', 'place:New', 'place:San', 'university:New', 'university:University']"
+Community 3,113607435918549143249,"['gender:1', 'last_name:adrian']"
+Community 3,110318982509514011806,"['gender:1', 'institution:TechTV', 'job_title:and', 'job_title:blogger,', 'job_title:entrepreneur,', 'job_title:of', 'job_title:tech', 'job_title:video', 'last_name:kevin']"
+Community 3,114235594503919622485,"['gender:1', 'job_title:advisor,', 'job_title:curator,', 'job_title:editor,', 'job_title:writer,', 'place:Long', 'university:New', 'university:Princeton']"
+Community 3,109504122343901736603,"['gender:2', 'institution:Microsoft', 'job_title:/', 'job_title:co-founder', 'job_title:interactive', 'job_title:manager', 'job_title:producer', 'job_title:product', 'job_title:sr.', 'job_title:startup', 'job_title:tech.', 'place:San', 'place:Seattle,', 'place:Vancouver,']"
+Community 3,105273428597140573510,"['gender:1', 'institution:', 'job_title:instigator', 'job_title:online', 'job_title:teacher,', 'job_title:writer,', 'last_name:howard']"
+Community 3,117198316664830078863,"['gender:2', 'institution:', 'last_name:rebecca', 'place:England']"
+Community 3,103564230838018928961,"['gender:1', 'job_title:editor', 'last_name:tom']"
+Community 3,108883923090202244243,"['gender:1', 'institution:San', 'job_title:tv', 'last_name:chris', 'place:Durham,', 'place:Edinburgh,', 'place:San', 'university:Duke']"
+Community 3,103637153024917466425,"['gender:1', 'institution:San', 'institution:Self', 'institution:Warner/Chappell', 'job_title:and', 'job_title:creative', 'job_title:digital', 'job_title:event', 'job_title:management', 'job_title:marketing,', 'job_title:online', 'job_title:strategy', 'last_name:andy', 'place:Chicago,', 'place:Iowa', 'place:Washington,', 'university:University']"
+Community 3,111714769899525603342,"['gender:2', 'institution:AOL', 'job_title:&', 'job_title:a', 'job_title:also', 'job_title:and', 'job_title:as', 'job_title:co-founder', 'job_title:consultant', 'job_title:development', ""job_title:i'm"", 'job_title:in', 'job_title:marketing', 'job_title:product', 'job_title:social', 'job_title:specializing', 'job_title:web']"
+Community 3,108794292461789825190,"['gender:2', 'institution:', 'job_title:new', 'job_title:reporter,', 'job_title:tech', 'job_title:times', 'job_title:york']"
+Community 3,103861741370066605527,"['gender:2', 'institution:ReadWriteWeb', 'institution:TechCrunch', 'job_title:blogger', 'last_name:sarah']"
+Community 3,118395148094907709551,"['gender:1', 'job_title:&', 'job_title:teacher', 'job_title:writer', 'last_name:bob', 'university:University']"
+Community 3,118418436905562612953,"['gender:2', 'institution:', 'job_title:developer', 'job_title:photographer,', 'last_name:lisa', 'place:Toronto,', 'place:Vancouver,', 'place:Victoria,', 'university:University']"
+Community 3,110351160992477343545,['gender:1']
+Community 3,103188948341310400908,"['gender:2', 'institution:Intel', 'institution:ReadWriteWeb', 'job_title:a', 'job_title:am', 'job_title:i']"
+Community 3,117531531564039468512,"['gender:1', 'job_title:and', 'job_title:editor', 'job_title:writer', 'last_name:jason', 'university:University', 'university:University']"
+Community 3,102998696062504667685,"['gender:1', 'institution:ReadWriteWeb', 'job_title:and', 'job_title:editor', 'job_title:reporter', 'last_name:alex', 'place:Brooklyn,', 'place:Monrovia,', 'place:Paris,', 'university:Northwestern']"
+Community 3,110040001084209829686,"['gender:2', 'job_title:editor', 'job_title:executive', 'last_name:pamela', 'place:Brooklyn,', 'place:Houston,', 'university:University']"
+Community 3,109555919001321700626,"['gender:1', 'last_name:aaron', 'place:California', 'place:Connecticut', 'place:Florida', 'place:Illinois', 'place:South']"
+Community 3,118320665823821681206,"['gender:1', 'job_title:business', 'job_title:human', 'job_title:president', 'last_name:chris']"
+Community 3,113619286206637523955,"['gender:1', 'place:Bristol,']"
+Community 3,117490083650718194659,['gender:1']
+Community 3,117691391504351341685,"['gender:1', 'institution:Mashable', 'job_title:and', 'job_title:entrepreneur', 'job_title:writer', 'last_name:ben', 'place:Bangkok,', 'place:Chicago,', 'place:Santa', 'university:Northwestern']"
+Community 3,108334318341392054568,"['gender:2', 'institution:Wall', 'job_title:reporter', 'last_name:jessica', 'place:', 'university:Harvard']"
+Community 3,100741560621611999898,"['gender:1', 'institution:VentureBeat', 'last_name:dean']"
+Community 3,102842560023219408624,"['gender:2', 'job_title:author,', 'job_title:columnist,', 'job_title:speaker,', 'job_title:teacher', 'university:Princeton']"
+Community 3,100250719688614433914,"['gender:1', 'institution:Engadget', 'job_title:editor-in-chief,', 'last_name:tim']"
+Community 3,116564746836220811723,"['gender:1', 'institution:Self', 'job_title:&', 'job_title:online', 'job_title:strategy']"
+Community 3,103347174328293237566,"['gender:1', 'institution:The', 'job_title:digital', 'last_name:dean', 'place:Boston,', 'place:Brooklyn,']"
+Community 3,108770025895417156764,"['gender:1', 'job_title:writer', 'last_name:robin', 'university:Michigan']"
+Community 3,110193533410016731852,"['gender:1', 'job_title:blogger', 'last_name:dave', 'university:Purdue', 'university:University', 'university:University']"
+Community 3,115056011540871202403,"['gender:1', 'job_title:freelance', 'job_title:writer', 'last_name:kevin', 'place:Buffalo,', 'place:Rochester,']"
+Community 3,108261172458336520976,"['gender:1', 'job_title:technology', 'job_title:writer', 'last_name:seth', 'place:Hong', 'place:London', 'place:Los', 'place:Paris', 'place:Sydney', 'university:New', 'university:University']"
+Community 3,114388497507538715293,"['gender:1', 'job_title:/', 'job_title:musician', 'job_title:painter', 'last_name:robert', 'place:Boston', 'place:Colombia']"
+Community 3,101915226295996051057,"['gender:1', 'institution:TWiT.tv', 'job_title:editor,', 'job_title:producer,', 'last_name:tony', 'university:University']"
+Community 3,107896527414017792767,"['gender:1', 'last_name:brian']"
+Community 3,101798506124778677222,"['gender:1', 'institution:Google']"
+Community 3,117245298692605482770,"['gender:1', 'job_title:producer', 'job_title:video', 'last_name:loren']"
+Community 3,114489801087255698678,"['gender:1', 'job_title:student']"
+Community 3,105435074544337918474,"['gender:1', 'institution:AOL', 'institution:CNET', ""institution:O'Reilly"", 'job_title:editor,', 'job_title:producer', 'job_title:web', 'job_title:writer,', 'university:Emerson']"
+Community 3,102944610657154936062,"['gender:1', 'job_title:marketing', 'job_title:of', 'last_name:aaron', 'place:Amherst,', 'place:Austin,', 'place:Boston,', 'place:Washington,', 'university:Georgetown', 'university:UMass']"
+Community 3,101849747879612982297,"['gender:3', 'job_title:&', 'job_title:ceo', 'job_title:founder', 'job_title:mashable', 'job_title:of', 'last_name:pete', 'place:San', 'place:Scotland']"
+Community 3,104986291293414058849,"['gender:1', 'job_title:a', 'job_title:and', 'job_title:business', 'job_title:i', 'job_title:in', 'job_title:my', 'job_title:team', 'job_title:with', 'job_title:work', 'last_name:jason', 'place:Goose', 'place:Hampton,', 'place:Knoxville,']"
+Community 3,101261243957067319422,"['gender:1', 'institution:TWiT', 'institution:TechTV', 'job_title:journalist', 'job_title:technology', 'last_name:leo', 'place:Manhattan', 'place:San', 'university:Yale']"
+Community 3,113309470814122509541,"['gender:1', 'institution:IDG', 'institution:VentureBeat', 'institution:Wired.com', 'institution:Ziff', 'job_title:and', 'job_title:editor', 'job_title:writer', 'last_name:dylan', 'place:San', 'place:Santa', 'place:Seattle,', 'university:Williams']"
+Community 3,109861183037883512060,"['gender:1', 'institution:Engadget', 'job_title:writer']"
+Community 3,116926420836139796850,"['gender:2', 'job_title:and', 'job_title:blogger,', 'place:Monrovia,']"
+Community 3,105887798538435693558,"['gender:1', 'institution:ReadWriteWeb', 'job_title:writer', 'university:Temple']"
+Community 3,102766862318438263839,"['gender:1', 'job_title:founder', 'job_title:of']"
+Community 3,112726038360301567381,"['gender:1', 'job_title:blogger', 'last_name:darren']"
+Community 3,103100496883422151101,"['gender:2', 'institution:CBS', 'institution:Google', 'job_title:at', 'job_title:digital', 'job_title:google', 'place:New', 'place:San', 'university:Princeton']"
+Community 3,117818363829980497205,"['gender:1', 'job_title:at', 'job_title:chief', 'job_title:editor', 'job_title:in', 'job_title:mashable', 'last_name:adam', 'university:Fox', 'university:University']"
+Community 3,113612142759476883204,"['gender:2', 'institution:Gawker', 'job_title:and', 'job_title:open', 'job_title:source', 'job_title:writer', 'last_name:gina', 'place:Brooklyn']"
+Community 3,110170441955137452576,"['gender:1', 'job_title:consultant,', 'job_title:product', 'last_name:jason']"
+Community 3,117834470724154925643,"['gender:1', ""institution:O'Reilly"", 'job_title:advisor,', 'job_title:and', 'job_title:director,', 'place:Fort', 'university:Victoria']"
+Community 3,104612091113514802664,"['gender:1', 'institution:AOL', 'institution:The', 'job_title:editor', 'job_title:for', 'job_title:next', 'job_title:the', 'job_title:web', 'last_name:drew', 'place:Manhattan', 'place:Marina', 'place:New', 'place:Philadelphia,', 'place:Seattle,', 'place:Victoria,']"
+Community 3,113169713749496726739,"['gender:1', 'job_title:journalist', 'last_name:steven']"
+Community 3,115855207434019427246,"['gender:1', 'job_title:ceo', 'last_name:kevin']"
+Community 3,113801236315350503728,"['gender:2', 'institution:TWiT.tv', 'job_title:&', 'job_title:blogger', 'job_title:host', 'job_title:podcaster', 'job_title:speaker', 'job_title:tv', 'last_name:amber', 'place:Boston', 'place:San']"
+Community 3,106908869066816337684,['gender:1']
+Community 3,112975947891556571931,"['gender:1', 'institution:The', 'job_title:and', 'job_title:editor', 'job_title:journalist', 'job_title:technology', 'last_name:jack', 'university:University']"
+Community 3,104706762420578115324,"['gender:1', 'job_title:journalist', 'job_title:technology', 'university:University']"
+Community 3,112226108704688540728,"['gender:2', 'job_title:journalist', 'place:New', 'place:San', 'place:Washington,']"
+Community 3,110929351399428170240,"['gender:1', 'institution:The']"
+Community 3,105296147923592870090,"['place:New', 'place:St.', 'place:Tampa,']"
+Community 3,115360979797396777969,"['gender:1', 'institution:Edelman', 'job_title:pr', 'job_title:thinker', 'job_title:writer,', 'last_name:steve', 'place:']"
+Community 3,108741250435676131889,"['institution:ReadWriteWeb', 'job_title:writer,', 'last_name:audrey']"
+Community 3,105207689891479566260,"['gender:1', 'job_title:writer/editor', 'last_name:paul', 'place:Ann', 'place:New']"
+Community 3,111090889118700110346,"['gender:1', 'institution:San', 'job_title:reporter,', 'job_title:technology', 'job_title:today', 'last_name:jon', 'place:London', 'place:San']"
+Community 3,105931402039205614444,"['institution:Electronic', 'job_title:of']"
+Community 3,101183471597929879944,"['gender:1', 'job_title:journalist', 'job_title:technology', 'last_name:peter']"
+Community 3,112399767740508618350,"['gender:1', 'institution:Unisys', 'job_title:ceo']"
+Community 3,100834378485895409468,"['gender:2', 'institution:Mashable', 'institution:VentureBeat', 'job_title:reporter', 'last_name:jennifer', 'place:Los', 'place:San', 'university:UCLA']"
+Community 3,107864377265514441999,"['gender:1', 'last_name:mark', 'place:London', 'place:Sydney']"
+Community 3,110701307803962595019,"['gender:1', 'job_title:publisher,', 'job_title:today', 'place:Vancouver,', 'university:University']"
+Community 3,107459724193454016289,"['gender:1', 'job_title:a', 'job_title:i', 'job_title:run', 'job_title:site', 'job_title:teach', 'last_name:andrew', 'place:Los', 'place:New', 'university:NYU', 'university:New']"
+Community 3,116707419903535483593,"['gender:1', 'job_title:group', 'job_title:the', 'last_name:aaron', 'place:Auckland', 'place:Melbourne']"
+Community 3,107393004802279488962,"['gender:2', 'job_title:&', 'job_title:advocate', 'job_title:media', 'job_title:natural', 'job_title:social', 'university:Simon']"
+Community 3,112609956355138553458,"['gender:2', 'institution:Wall', 'job_title:ceo,', 'job_title:group', 'last_name:amy', 'place:Chicago', 'place:Hong', 'place:New', 'place:Philadelphia', 'place:San', 'place:Tokyo', 'university:Columbia', 'university:Indiana']"
+Community 3,112476991545055404616,"['job_title:freelance', 'last_name:cat']"
+Community 3,101606040925310416308,"['gender:1', 'institution:PC', 'institution:Pearson', 'job_title:writer', 'place:Massachusetts', 'university:Emerson']"
+Community 3,111601729473858041964,"['gender:2', 'institution:CBS', 'job_title:at', 'job_title:editor', 'job_title:how', 'job_title:to', 'last_name:sharon', 'place:San', 'university:San']"
+Community 3,107460400955464713852,"['gender:1', 'job_title:&', 'job_title:mobile', 'job_title:podcaster', 'job_title:tech', 'job_title:writer', 'last_name:kevin', 'university:Temple']"
+Community 3,111005666466297482380,"['gender:1', 'last_name:tom']"
+Community 3,117555990096315491864,"['gender:1', 'job_title:and', 'job_title:digital', 'job_title:marketing', 'job_title:pr', 'last_name:craig', 'place:Boston,']"
+Community 3,107753428759636856492,"['gender:1', 'institution:TechCrunch', 'institution:VentureBeat', 'job_title:venture', 'place:Ann', 'place:Los', 'place:San', 'university:University']"
+Community 3,109876467727174291780,"['gender:1', 'job_title:-', 'job_title:at', 'job_title:musician,', 'job_title:podcaster,', 'job_title:speaker,', 'job_title:videographer,']"
+Community 3,111288574156818690676,"['gender:1', 'institution:Google', 'job_title:advocate', 'job_title:developer', 'place:Nashua,']"
+Community 3,116621986644249676039,"['gender:1', 'job_title:ceo', 'last_name:jim', 'university:New']"
+Community 3,114291878202038589039,"['gender:1', 'job_title:manager', 'last_name:andrew']"
+Community 3,114619623685989006732,"['gender:1', 'institution:San', 'institution:San', 'institution:Self-employed', 'job_title:at', 'job_title:digital', 'job_title:director', 'job_title:news', 'job_title:of', 'job_title:program', 'job_title:test', 'last_name:steve', 'place:Denver,', 'place:Fort', 'place:Oakland,', 'place:San', 'university:University']"
+Community 3,111326500706485286272,"['gender:1', 'job_title:writer', 'last_name:alex', 'place:Chicago', 'place:Palo', 'place:Portland', 'university:University']"
+Community 3,104204331916057864710,"['gender:1', 'job_title:engineer', 'job_title:network', 'last_name:frank', 'place:Las', 'university:DeVry', 'university:University']"
+Community 3,102948679177783493401,"['gender:1', 'job_title:editor', 'last_name:chris']"
+Community 3,115109077044202722504,"['gender:1', 'last_name:jason', 'university:San']"
+Community 3,104284466618076664967,"['gender:1', 'institution:IBM', 'institution:Unisys', 'job_title:advocate', 'job_title:software']"
+Community 3,102976465024742837897,"['gender:2', 'job_title:entrepreneur.', 'job_title:media', 'job_title:producer,', 'last_name:kim', 'place:Ashland,', 'place:Austin,', 'place:New', 'place:San']"
+Community 3,105780487374226393830,"['gender:1', 'job_title:curator,', 'job_title:producer,', 'job_title:thinker,', 'job_title:writer,', 'last_name:andrew', 'university:Dartmouth']"
+Community 3,106945565311859894660,[]
+Community 3,112614367259340988369,"['gender:1', 'institution:ReadWriteWeb', 'job_title:designer,', 'job_title:developer,', 'job_title:web', 'place:Charleston,', 'place:Eugene,', 'place:Goose', 'place:San']"
+Community 3,117217807403956460587,"['gender:1', 'job_title:writer', 'last_name:david', 'university:University']"
+Community 3,113057286764851383469,"['gender:2', 'job_title:tech', 'last_name:gina', 'place:Atlanta,', 'place:Boca', 'place:Boston,', 'place:Ft.', 'place:Iowa', 'place:London,', 'place:New', 'place:San', 'place:San', 'place:Tallahassee,']"
+Community 3,106875990476951662693,"['institution:CMP', 'institution:IDG', 'institution:Ziff', 'job_title:community', 'job_title:editor,', 'job_title:industry', 'job_title:manager,', 'job_title:online', 'job_title:writer,']"
+Community 3,101984790166572778922,"['gender:1', 'institution:Wired.com', 'job_title:editor', 'job_title:tech', 'last_name:ryan']"
+Community 3,110691778826596363915,"['gender:1', 'job_title:a', 'job_title:company', 'job_title:run', 'last_name:nick', 'place:Washington,']"
+Community 3,107245525664765338495,"['gender:1', 'job_title:editor', 'job_title:executive', 'place:Los', 'university:Columbia']"
+Community 3,117550971892000156946,"['gender:2', 'institution:Red', 'place:bronx,']"
+Community 3,107033731246200681024,"['gender:1', ""institution:O'Reilly"", 'job_title:ceo', 'last_name:tim', 'place:Cambridge,', 'place:Newton,', 'place:San', 'place:Watertown,', 'university:Harvard']"
+Community 3,101360661542675321209,"['gender:1', 'job_title:strategist']"
+Community 3,109550818599769670856,"['gender:1', 'last_name:aaron']"
+Community 3,103399926392582289066,"['gender:1', 'institution:The', 'job_title:journalist', 'job_title:online', 'last_name:craig', 'place:Buffalo,', 'place:Chicago,', 'place:Rochester,']"
+Community 3,114716671631005124422,"['gender:1', 'institution:Pearson', 'job_title:make', 'last_name:brandon', 'place:Indianapolis,', 'place:Los', 'place:San', 'place:Tampa,']"
+Community 3,114891934677835796437,"['gender:1', 'last_name:jeff', 'university:non-ascii_883']"
+Community 3,110700994347677244209,"['last_name:christopher', 'university:Syracuse']"
+Community 3,116802117190197146689,"['gender:2', 'institution:The', 'job_title:editor', 'job_title:technology']"
+Community 3,104961406012654314344,"['gender:1', 'job_title:&', 'job_title:about', 'job_title:apps,', 'job_title:curator', 'job_title:from', 'job_title:in', 'job_title:media,', 'job_title:of', 'job_title:social', 'job_title:tech', 'job_title:the']"
+Community 3,103691312271671214670,"['gender:1', 'job_title:and', 'job_title:host,', 'job_title:podcast', 'job_title:producer', 'job_title:tech', 'last_name:patrick']"
+Community 3,115976612934744106451,"['gender:2', 'institution:BBC', 'institution:Google', 'job_title:and', 'job_title:communications', 'job_title:global', 'job_title:google', 'job_title:international', 'job_title:liaison', 'job_title:media', 'job_title:pr', 'job_title:team', 'place:Scotland']"
+Community 3,114338217792003600242,"['gender:1', 'job_title:am', 'job_title:for', 'job_title:i', 'job_title:team', 'job_title:the', 'last_name:allen']"
+Community 3,110273816828653490746,"['gender:1', 'job_title:entrepreneur', 'last_name:jason']"
+Community 3,113872580988824095186,"['gender:2', 'institution:', 'job_title:and', 'job_title:writer', 'last_name:amy', 'place:Miami,']"
+Community 3,106100296973968329853,"['gender:2', 'job_title:and', 'job_title:at', 'job_title:editor', 'job_title:executive', 'job_title:host', 'job_title:interactive']"
+Community 3,107781761552417614958,"['gender:2', 'institution:Engadget', 'job_title:+', 'job_title:designer', 'job_title:open', 'job_title:science', 'job_title:strategist', 'place:']"
+Community 3,103098855986676641514,"['gender:1', 'institution:Apple', 'job_title:&', 'job_title:photography', 'job_title:tech', 'place:Brussels,']"
+Community 3,112460361944526645003,"['gender:1', 'job_title:digital', 'job_title:media', 'job_title:strategist', 'place:Miami,', 'university:Duke']"
+Community 3,103790322051974623058,"['gender:1', 'job_title:director', 'job_title:of', 'job_title:sales']"
+Community 3,102222722824849858928,"['gender:2', 'job_title:curator', 'last_name:maria']"
+Community 3,103628798844723879427,"['gender:1', 'last_name:dave', 'place:New', 'place:Seattle', 'university:NYU']"
+Community 3,108267657361246882904,"['gender:1', 'job_title:director,', 'job_title:interactive', 'job_title:strategy', 'last_name:brian']"
+Community 3,115755194763571615856,"['gender:1', 'job_title:author,', 'job_title:consultant,', 'job_title:developer,', 'job_title:musician,', 'place:Atlanta,', 'place:Chattanooga,', 'place:Miami,']"
+Community 3,115422622153710387598,"['gender:1', 'last_name:jay']"
+Community 3,101288593495419475448,"['gender:1', 'institution:TechCrunch', 'job_title:entrepreneur,', 'job_title:writer', 'last_name:robin']"
+Community 3,115561753390919046363,"['gender:1', 'job_title:&', 'job_title:digital', 'job_title:interactive', 'job_title:marketing', 'job_title:strategist', 'last_name:barry', 'place:Toronto,']"
+Community 3,115775757680480988681,"['gender:1', 'job_title:consultant,', 'job_title:editor', 'job_title:speaker,', 'job_title:teacher,', 'job_title:technology', 'job_title:trainer,', 'last_name:jeremy', 'place:Bangkok', 'place:Hong', 'place:London']"
+Community 3,114575011306147603127,"['gender:1', 'job_title:artist', 'job_title:interactive', 'last_name:ben', 'place:Houston,', 'place:New']"
+Community 3,117421021456205115327,"['gender:3', 'job_title:journalist', 'job_title:technology']"
+Community 3,117954342266917774594,"['gender:2', 'job_title:and', 'job_title:interest', 'job_title:journalist', 'job_title:special', 'last_name:cat', 'place:Bronx,', 'place:Raleigh,']"
+Community 3,111585581956730395692,"['gender:2', 'job_title:author', 'last_name:heather', 'place:St.', 'place:Virginia']"
+Community 3,111644392534392541405,[]
+Community 3,107133948555394893679,"['gender:2', 'job_title:digital']"
+Community 3,113521687990607909565,"['gender:1', 'last_name:shane']"
+Community 3,112870994374364427682,"['gender:2', 'job_title:journalist']"
+Community 3,101502443101885979172,"['gender:2', 'institution:TWiT.tv']"
+Community 3,113247423264358423892,"['gender:1', 'job_title:comedy,', 'job_title:technology', 'university:Harvard']"
+Community 3,115585398292418640701,"['gender:1', 'job_title:guy', 'last_name:kevin', 'place:Cleveland,']"
+Community 3,103557575409252093663,"['gender:1', 'last_name:paul', 'place:Auckland', 'place:Melbourne', 'university:Victoria']"
+Community 3,108002138812927763875,"['gender:1', 'job_title:at', 'job_title:next', 'job_title:the', 'job_title:web']"
+Community 3,106564105157127674161,"['gender:1', 'job_title:blogger,', 'job_title:broadcaster,', 'job_title:creator', 'job_title:designer,', 'job_title:developer,', 'job_title:director,', 'job_title:entrepreneur,', 'job_title:gamer,', 'job_title:geek,', 'job_title:journalist,', 'job_title:musician,', 'job_title:online', 'job_title:photographer,', 'job_title:podcaster,', 'job_title:producer,', 'job_title:social', 'job_title:software', 'job_title:tech', 'job_title:video', 'job_title:web', 'last_name:brad']"
+Community 3,107006059340452534782,"['gender:1', 'place:Atlanta,', 'place:Austin,', 'place:Chattanooga,', 'place:Corpus', 'place:Las', 'place:San', 'place:Scottsdale,', 'place:St.']"
+Community 3,100518419853963396365,"['gender:2', 'institution:CNET', 'institution:Future', 'institution:Mahalo.com', 'institution:Revision3', 'job_title:and', 'job_title:geek', 'job_title:host', 'job_title:video', 'place:Boston', 'place:Connecticut', 'university:Emerson']"
+Community 3,117743699429239435303,"['gender:1', 'institution:Mashable', 'institution:The', 'job_title:business', 'job_title:development,', 'job_title:director', 'job_title:next', 'job_title:of', 'job_title:the', 'job_title:web', 'last_name:brett', 'place:New']"
+Community 3,112374836634096795698,"['gender:1', 'job_title:and', 'job_title:author,', 'job_title:entrepreneur.', 'job_title:speaker,', 'place:Honolulu', 'place:Palo', 'place:San', 'university:Stanford', 'university:UCLA']"
+Community 3,106506966828595242496,"['gender:1', 'institution:', 'job_title:author', 'job_title:media', 'job_title:new', 'job_title:of', 'job_title:york', 'last_name:jay', 'place:Buffalo,']"
+Community 3,107410585863197912809,"['gender:1', 'job_title:&', 'job_title:co-founder', 'job_title:editor,', 'place:Palo', 'place:Paris']"
+Community 3,108967323530519754654,"['gender:1', 'job_title:writing,', 'last_name:eric', 'place:London', 'place:New', 'place:Philadelphia', 'place:Rome']"
+Community 3,111128778940913280838,"['gender:3', 'institution:Electronic', 'institution:The', 'job_title:coordinator,', 'job_title:internet', 'job_title:to', 'last_name:danny', 'place:London']"
+Community 3,107349300571630381772,['gender:1']
+Community 3,107429025521549453511,"['gender:1', 'institution:GigaOM', 'job_title:analyst.', 'job_title:technology', 'job_title:writer.', 'last_name:michael', 'place:Boston', 'place:Los', 'place:Seattle']"
+Community 3,102216887206636463918,"['gender:1', 'institution:CMP', 'institution:Mashable', 'job_title:editor-in-chief', 'place:New']"
+Community 3,100075356758919993129,"['gender:1', 'institution:CNET', 'job_title:reporter', 'last_name:matt', 'place:Berkeley,', 'place:London,', 'place:Los', 'place:Pasadena,', 'place:San', 'place:San', 'place:Seattle,', 'place:Williamstown,']"
+Community 3,102934220817987641543,['gender:1']
+Community 3,103207773865797007066,"['gender:1', 'institution:CBS', 'institution:TWiT', 'institution:TechTV', 'job_title:and', 'job_title:host', 'job_title:podcast', 'job_title:video', 'job_title:web', 'last_name:tom', 'place:Arlington,', 'place:Austin,', 'place:Champaign,', 'place:Oakland,', 'place:San', 'university:Austin', 'university:University', 'university:University']"
+Community 3,110349110664408276955,"['gender:2', 'institution:Mashable', 'institution:MySpace', 'place:Colombia', 'place:USA']"
+Community 3,115963821022986200770,"['institution:Mahalo.com', 'institution:MySpace', 'institution:Tsavo', 'last_name:sean']"
+Community 3,107391346918211701146,"['gender:1', 'last_name:jeremy']"
+Community 3,112550116279721943627,"['gender:2', 'institution:Amazon.com', ""institution:O'Reilly"", 'job_title:and', 'job_title:business', 'job_title:tech', 'job_title:to', 'job_title:vice', 'last_name:sarah', 'place:bronx,', 'university:Fordham', 'university:University']"
+Community 3,117805269367460608808,"['gender:1', 'institution:The', 'job_title:about', 'job_title:and', 'job_title:cats', 'job_title:cloud', 'job_title:conference', 'job_title:i', ""job_title:i'm"", 'job_title:mobile', 'job_title:open', 'job_title:software', 'job_title:source', 'job_title:talk', 'place:Oceanside,', 'place:Okinawa,', 'place:Salt', 'place:San']"
+Community 3,108618420847599320315,"['gender:1', 'job_title:entrepreneur', 'last_name:larry', 'place:Rockville,', 'place:Sarasota,', 'university:Pennsylvania']"
+Community 3,108894779805940659869,"['gender:1', 'institution:TWiT.tv', 'job_title:tech.', 'last_name:brian', 'university:University']"
+Community 3,100042105400303837110,"['gender:1', 'job_title:&', 'job_title:content', 'job_title:event', 'job_title:manager', 'job_title:media', 'job_title:social', 'last_name:david', 'place:Bronx,']"
+Community 3,101776230590766727790,"['gender:1', 'job_title:journalist', 'last_name:rob', 'place:Washington,', 'university:Georgetown']"
+Community 3,100732792168944455620,"['gender:1', 'institution:', 'job_title:it', 'job_title:support']"
+Community 3,102463809205898225329,"['gender:1', 'job_title:i', 'job_title:like', 'job_title:to', 'last_name:james']"
+Community 3,108033818031897165760,"['gender:1', 'place:Kuala', 'place:Penang']"
+Community 3,115739378269261680935,"['gender:2', 'institution:Revision3', 'institution:TWiT.tv', 'job_title:producer']"
+Community 3,117769401199094282992,"['gender:1', 'job_title:blogger,', 'job_title:marketer', 'job_title:online', 'last_name:david']"
+Community 3,107698577967913285817,"['gender:1', 'job_title:architect,', 'job_title:consultant', 'job_title:software', 'job_title:systems', 'job_title:technology', 'last_name:jon', 'place:Dubai', 'place:London', 'place:Tokyo']"
+Community 3,103474499706750246179,"['gender:1', 'job_title:and', 'job_title:anything', 'job_title:web', 'place:Europe', 'place:London,', 'place:Paris,', 'place:Rome,', 'place:San', 'place:Santa', 'place:Toronto,']"
+Community 3,111191369840816333291,"['gender:1', 'job_title:&', 'job_title:army', 'job_title:media', 'job_title:of', 'job_title:reporter', 'job_title:tv', 'last_name:matt', 'place:Seattle']"
+Community 3,104063158293073691415,[]
+Community 3,106979372492552141708,"['gender:1', 'institution:Engadget', 'institution:The', 'job_title:editor', 'last_name:joshua']"
+Community 3,106227298086992870281,"['gender:2', 'job_title:in', 'job_title:or', 'last_name:kim', 'place:Fresno,']"
+Community 3,109703654481345966244,"['gender:1', 'last_name:alex', 'place:London', 'place:Oakland', 'university:SFSU']"
+Community 3,115723497250720724489,"['gender:2', 'institution:Mashable', 'institution:Microsoft', 'job_title:community', 'job_title:manager', 'place:Brooklyn,', 'place:Seattle,']"
+Community 3,104844817047555881215,"['gender:1', 'job_title:journalist', 'last_name:brad', 'place:Cleveland,', 'place:New', 'university:Columbia']"
+Community 3,112352633407725078192,[]
+Community 3,110593963566088558937,"['gender:1', 'job_title:&', 'job_title:at', 'job_title:consultant,', 'job_title:google', 'job_title:international', 'job_title:internet', 'job_title:media', 'job_title:new', 'job_title:reporter,', 'job_title:research', 'job_title:speaker,', 'job_title:technology', 'job_title:trainer,', 'job_title:writer']"
+Community 3,104147032621576433590,"['gender:2', 'job_title:am', 'job_title:and', 'job_title:do', 'job_title:how', 'job_title:i', 'job_title:media', 'job_title:on', 'job_title:social', 'job_title:to', 'job_title:tools', 'job_title:with', 'job_title:working', 'last_name:nicole']"
+Community 3,111707273404757375952,"['gender:2', 'job_title:blogger', 'job_title:mom', 'last_name:jessica', 'place:Manhattan']"
+Community 3,114151370744583208669,"['gender:1', 'institution:Red', 'job_title:and', 'job_title:editor,', 'job_title:journalist', 'job_title:publisher,', 'last_name:jason', 'place:Boston', 'place:London', 'place:San']"
+Community 3,114738075629051960079,"['gender:1', 'institution:Betanews', 'institution:CMP', 'institution:CNET', 'job_title:journalist', 'job_title:writer,', 'last_name:joe', 'place:Boston', 'place:New', 'place:Washington,']"
+Community 3,102444453239525479523,[]
+Community 3,105545068944703206621,"['gender:1', 'institution:Mashable', 'institution:NBCUniversal', 'job_title:editor,', 'job_title:mashable', 'job_title:senior', 'last_name:charlie']"
+Community 3,107691215066783437198,"['gender:1', 'institution:Gawker', 'institution:IDG', 'institution:NBCUniversal', 'institution:Red', 'institution:Time', 'institution:VentureBeat', 'job_title:editor', 'last_name:owen', 'university:University']"
+Community 3,109247306373593947755,"['gender:1', 'job_title:executive', 'job_title:media', 'job_title:new', 'last_name:ryan', 'place:Berkeley,', 'place:Boston,', 'place:Los']"
+Community 3,100041310890249910592,"['gender:1', 'job_title:and', 'job_title:game', 'job_title:online', 'job_title:writer']"
+Community 3,103911183408644149411,"['gender:1', 'job_title:and', ""job_title:i've"", 'job_title:this', 'last_name:vincent', 'place:Kansas']"
+Community 3,114994216108606649534,"['gender:1', 'job_title:web', 'place:London']"
+Community 3,104774309513755344292,"['gender:2', 'institution:Mahalo.com', 'institution:MySpace', 'institution:Tsavo', 'last_name:amber']"
+Community 3,114199219545463600767,"['gender:2', 'institution:Mashable', 'job_title:and', 'job_title:media', 'job_title:social', 'job_title:strategist', 'job_title:tech', 'job_title:writer', 'university:New']"
+Community 3,114516047414042281846,"['gender:1', 'institution:Microsoft', 'job_title::', 'job_title:manager', 'job_title:mobile', 'job_title:technology,', 'last_name:chris', 'place:Chicago,', 'place:Fairfax,', 'place:Ithaca,', 'place:Oakland,', 'place:Philadelphia,', 'place:San', 'place:Seattle,', 'university:Illinois']"
+Community 3,101227597356467677514,"['job_title:specialist', 'job_title:technician', 'university:']"
+Community 3,111538009015644508967,"['gender:2', 'institution:TWiT.tv', 'job_title:media', 'job_title:tech', 'last_name:sarah', 'place:Ashland,', 'place:Los', 'university:San']"
+Community 3,109967616069135434926,"['gender:1', 'job_title:and', 'job_title:maker', 'job_title:of', 'job_title:producer,', 'job_title:things', 'job_title:video', 'last_name:matt', 'place:Nashua,', 'university:New']"
+Community 3,110209787594312878744,"['gender:1', 'job_title:and', 'job_title:reporter', 'last_name:stephen', 'university:Harvard']"
+Community 3,105712632219024636878,"['gender:1', 'institution:The', 'job_title:blogger']"
+Community 3,104179323350489956912,"['gender:2', 'institution:TWiT.tv', 'institution:TechTV', 'institution:Yahoo', 'job_title:reporter', 'job_title:tv', 'last_name:becky']"
+Community 3,116768967108862685383,"['gender:1', 'job_title:columnist', 'job_title:tech', 'last_name:andy', 'place:']"
+Community 3,105201176373156907412,"['job_title:amateur', 'job_title:and', 'job_title:network', 'job_title:radio', 'last_name:peter', 'university:Simon']"
+Community 3,115492422592522200642,[]
+Community 3,101436633503339641010,"['gender:1', 'job_title:a', 'job_title:for', 'job_title:i', 'job_title:internet', 'job_title:say', 'job_title:something', 'job_title:the', 'job_title:to', 'job_title:want']"
+Community 3,111293022852677971506,"['gender:1', 'job_title:media', 'job_title:social', 'last_name:brian', 'place:Brooklyn,', 'place:Syracuse,', 'university:Syracuse']"
+Community 3,108622331358244378714,"['gender:1', 'institution:BBC', 'institution:Financial', 'last_name:chris', 'place:London', 'place:Manchester', 'place:Washington']"
+Community 3,116925190375967559944,"['gender:1', 'job_title:blogger,', 'job_title:broadcaster,', 'job_title:journalist', 'last_name:nick']"
+Community 3,107054398730220626019,"['gender:1', 'institution:Mashable', 'job_title:of', 'job_title:product', 'university:New']"
+Community 3,110704492453692501997,['gender:1']
+Community 3,102646278174713579067,"['gender:1', 'institution:BBC', 'job_title:helping', 'job_title:people', 'job_title:the', 'job_title:web', 'place:London']"
+Community 3,108233028875375016776,"['gender:1', 'job_title:writer']"
+Community 3,109262616794768311251,"['gender:1', 'job_title:engineer', 'job_title:software']"
+Community 3,115302451851587317396,"['gender:1', 'institution:Future', 'last_name:will', 'place:Knoxville,', 'place:San', 'place:Washington,', 'university:University']"
+Community 3,106829364795701933124,"['gender:1', 'job_title:interactive', 'job_title:marketing', 'job_title:photographer', 'job_title:producer', 'job_title:strategist', 'job_title:tech', 'job_title:|', 'last_name:ken']"
+Community 3,104801768486806000734,"['gender:1', 'job_title:blogger', 'job_title:technology']"
+Community 3,104003218615150837061,"['institution:ESPN', 'institution:Google', 'institution:The', 'job_title:at', 'job_title:blogger', 'job_title:manager', 'job_title:product', 'last_name:jay']"
+Community 3,104244636287470350450,"['gender:1', 'job_title:blogger', 'job_title:journalist,', 'place:Germany']"
+Community 3,113475277239647026452,"['gender:1', 'institution:TechCrunch', 'institution:Time', 'job_title:blogger', 'last_name:erick', 'place:Buffalo,', 'place:San', 'university:Cornell']"
+Community 3,111285782175840598932,"['gender:1', 'last_name:peter', 'place:Berkeley,', 'place:Cambridge,', 'place:Detroit,', 'place:San', 'university:Harvard']"
+Community 3,100892411376421396254,"['gender:1', 'institution:The', 'job_title:and', 'job_title:professional', 'job_title:writer', 'last_name:matthew']"
+Community 3,115017401467423642930,"['gender:1', 'institution:Revision3', 'last_name:patrick']"
+Community 3,104281401034115714032,"['gender:1', 'job_title:/', 'job_title:editor', 'job_title:journalist', 'job_title:online', 'job_title:tech']"
+Community 3,108999765655839446046,"['gender:1', 'last_name:leo', 'place:Massachusetts']"
+Community 3,115019886746892568919,"['gender:1', 'job_title:journalist', 'last_name:shane']"
+Community 3,117523047521837823505,"['gender:1', 'job_title:journalist', 'last_name:zach', 'place:Boston,', 'place:Cambridge,']"
+Community 3,111433245253472835474,"['gender:1', 'last_name:kevin']"
+Community 3,115334822962809221692,"['gender:1', 'job_title:graduate', 'job_title:student', 'last_name:kevin']"
+Community 3,102199777787314348675,"['gender:1', 'institution:IBM', 'job_title:and', 'job_title:author', 'job_title:branding,', 'job_title:llc', 'job_title:managing', 'job_title:me', 'job_title:of', 'job_title:partner', 'last_name:dan', 'place:Newton,']"
+Community 3,103903198087988193655,"['gender:1', 'institution:John', 'job_title:and', 'job_title:clinical', 'job_title:freelance', 'job_title:social', 'job_title:writer/editor', 'last_name:james', 'place:Indianapolis,', 'place:Oakland,', 'place:San']"
+Community 4,113607618886547846656,"['gender:1', 'institution:YouTube', 'job_title:i', 'job_title:make', 'job_title:youtube', 'last_name:casey']"
+Community 4,102331775073980323044,"['gender:1', 'job_title:a', 'job_title:and', 'job_title:host', 'job_title:of', 'job_title:show', 'job_title:youtube', 'last_name:dana', 'place:Bloomington,', 'place:Cincinnati,', 'place:Indianapolis,']"
+Community 4,101608784593814552339,"['gender:2', 'last_name:michelle']"
+Community 4,111172562319644899134,"['gender:1', 'job_title:gamer,', 'job_title:partner', 'job_title:professional', 'job_title:youtube']"
+Community 4,117673062930419636633,"['gender:1', 'job_title:producer', 'place:Chicago']"
+Community 4,108810279611031935715,"['institution:CBS', 'job_title:my', 'last_name:rob']"
+Community 4,116998538961602699720,[]
+Community 4,113602327320163521345,['gender:2']
+Community 4,101658673185885864140,"['gender:2', 'job_title:comedy,', 'job_title:host', 'job_title:show', 'job_title:tv', 'last_name:karen', 'place:San']"
+Community 4,111671473634423889742,"['gender:1', 'institution:YouTube', 'job_title:and', 'job_title:make', 'job_title:music', 'job_title:youtube']"
+Community 4,106722498995822124406,"['gender:2', 'job_title:and', 'job_title:youtuber', 'last_name:lisa']"
+Community 4,118360429678225375146,['gender:2']
+Community 4,110067835153954222370,"['gender:1', 'institution:Maker', 'job_title:a', ""job_title:i'm""]"
+Community 4,107108944317955487024,"['gender:1', 'job_title:i', 'job_title:youtube', 'last_name:james']"
+Community 4,110027801358289770465,"['gender:1', 'job_title:comedian', 'last_name:charlie', 'place:Chapel', 'place:Columbia,', 'university:University']"
+Community 4,108272844934491300941,['gender:1']
+Community 4,100401849855292725649,"['gender:1', 'job_title:cats', 'job_title:of', 'job_title:photos', 'job_title:taking']"
+Community 4,105653635419769551939,"['gender:1', 'institution:YouTube', 'job_title:content', 'job_title:creator', 'job_title:online', 'job_title:video', 'last_name:michael']"
+Community 4,103142539092031332460,"['gender:1', 'institution:YouTube']"
+Community 4,101314355920612678707,"['gender:1', 'institution:YouTube']"
+Community 4,111316721371208386351,['gender:1']
+Community 4,109870972371295881074,"['gender:1', 'job_title:network', 'place:Los']"
+Community 4,110873501104067381861,"['gender:1', 'last_name:adam']"
+Community 4,103846749826624890310,"['gender:1', 'job_title:content', 'job_title:creator', 'job_title:youtube', 'last_name:jay']"
+Community 4,107127663445435651950,"['gender:1', 'job_title:also', 'job_title:guy', 'job_title:i', ""job_title:i'm"", 'job_title:make', 'job_title:stuff', 'job_title:that', 'last_name:dane']"
+Community 4,101822457058478980551,"['gender:1', 'institution:', 'job_title:show', 'job_title:the']"
+Community 4,104533871975423758471,"['gender:1', 'institution:Maker', 'job_title:professional', 'last_name:brett', 'place:', 'university:Bradley']"
+Community 4,114772617034574502530,"['gender:2', 'institution:YouTube', 'last_name:sara', 'place:non-ascii_653', 'place:London', 'place:New']"
+Community 4,114982912824400078271,"['gender:1', 'job_title:comedian', 'last_name:peter']"
+Community 4,107107204147787639472,"['gender:1', 'last_name:david']"
+Community 4,118350537580006386306,"['gender:1', 'institution:YouTube']"
+Community 4,105140389465525161529,"['gender:2', 'institution:LockerGnome', 'job_title:blogger', 'last_name:kelly', 'place:Seattle,', 'university:University']"
+Community 4,109755322134747033979,"['gender:1', 'institution:YouTube', 'job_title:musician', 'last_name:chris', 'place:Pensacola,']"
+Community 4,101803661787164895191,"['gender:1', 'institution:Warner/Chappell', 'institution:YouTube', 'last_name:david']"
+Community 4,118098584998450483854,"['gender:1', 'last_name:steve']"
+Community 4,107543179443236874025,"['gender:2', 'institution:YouTube']"
+Community 4,106681243710619131520,"['gender:1', 'last_name:christopher']"
+Community 4,113942908358079779113,"['gender:1', 'job_title:youtuber']"
+Community 4,115937196028615519609,"['gender:2', 'job_title:a', 'job_title:and', 'job_title:designer', 'job_title:graphic', ""job_title:i'm"", 'job_title:video', 'place:West']"
+Community 4,109224939086722716827,"['gender:1', 'job_title:/', 'job_title:author', 'job_title:entertainer']"
+Community 4,103814099427223116814,"['gender:2', 'institution:YouTube', 'last_name:justine']"
+Community 4,108009424581861290509,"['gender:2', 'last_name:pamela', 'place:Austin,', 'place:Houston,']"
+Community 4,105154673398478870603,"['gender:1', 'job_title:for', 'job_title:i', 'job_title:make', 'job_title:the', 'job_title:videos']"
+Community 4,116912646346388238768,"['gender:1', 'job_title:creative', 'job_title:solutions', 'job_title:web', 'last_name:john']"
+Community 4,103003106701885599444,['gender:2']
+Community 4,101222125576635425546,"['gender:1', 'job_title:maker', 'job_title:video', 'place:Bronx,']"
+Community 4,100014595154057929534,"['gender:1', 'institution:YouTube', 'place:Los']"
+Community 4,109877646481018085864,"['gender:1', 'job_title:filmmaker', 'place:Brooklyn', 'place:Manhattan', 'place:Orlando']"
+Community 4,103358508821091891427,"['gender:1', 'job_title:partner', 'job_title:youtube', 'last_name:adrian']"
+Community 4,113677914826272485113,['gender:1']
+Community 4,108967758027688453900,"['gender:1', 'job_title:youtube', 'last_name:matthew', 'place:Portland', 'place:Seattle']"
+Community 4,109396053825434148948,"['gender:1', 'last_name:patrick']"
+Community 4,112870589173901690895,"['gender:1', 'job_title:retired', 'place:Long', 'place:San']"
+Community 4,109425702644986550721,[]
+Community 4,117853022948555251608,"['gender:1', 'last_name:danny']"
+Community 4,101946534256233027153,"['gender:1', 'job_title:host,', 'job_title:marketer', 'job_title:viral', 'last_name:toby']"
+Community 4,103250420549906046832,"['gender:2', 'institution:YouTube', 'job_title:actress,', 'job_title:city', 'job_title:video', 'job_title:youtuber,', 'place:New', 'place:Salt']"
+Community 4,105266705022852248042,"['gender:1', 'last_name:john']"
+Community 4,103496887477945006772,"['gender:1', 'job_title:music,', 'job_title:talk']"
+Community 4,114680032134596673632,"['gender:1', 'job_title:content', 'job_title:media']"
+Community 4,101258241687735204088,"['gender:1', 'last_name:matt']"
+Community 4,114652664809652456182,"['gender:1', 'job_title:video', 'job_title:youtube', 'last_name:brett']"
+Community 4,101264091937341892971,"['gender:1', 'institution:YouTube']"
+Community 4,100066010057773449534,"['gender:2', 'job_title:i', 'job_title:make', 'job_title:videos', 'job_title:youtube', 'last_name:jessica']"
+Community 4,103170905344370158971,"['gender:1', 'institution:', 'job_title:blogger', 'job_title:video']"
+Community 4,105971871972726847055,"['gender:1', 'institution:CNET', 'job_title:&', 'job_title:ceo', 'job_title:founder', 'last_name:george', 'place:Berkeley,', 'place:Chicago,', 'place:Denver,', 'place:New', 'place:San', 'university:University']"
+Community 4,109743800495515293387,"['gender:2', 'institution:YouTube', 'job_title:and', 'job_title:blogger', 'job_title:video', 'job_title:writer', 'place:New', 'place:North']"
+Community 4,116191334173783331002,"['gender:1', 'job_title:maker', 'job_title:man', 'job_title:video', 'last_name:joe']"
+Community 4,106623115356971199088,['gender:1']
+Community 4,107765155354887834405,"['gender:1', 'job_title:of']"
+Community 4,116587379281380950087,"['gender:1', 'job_title:consultant', 'job_title:it', 'last_name:daniel']"
+Community 4,112048070794252585618,"['gender:1', 'job_title:i', 'job_title:make', 'job_title:videos', 'place:Tallahassee,', 'place:Tampa,']"
+Community 4,108413247499481325229,"['gender:1', 'last_name:brad']"
+Community 4,103202240098405384849,"['gender:1', 'institution:Self']"
+Community 4,114678477672875009168,"['gender:1', 'institution:YouTube']"
+Community 4,110379434263550065795,"['gender:1', 'institution:YouTube', 'job_title:and', 'job_title:editor', 'job_title:partner', 'job_title:video', 'job_title:youtube', 'last_name:james', 'place:Toronto,']"
+Community 4,109184610544659484621,"['gender:1', 'institution:YouTube', 'last_name:chris']"
+Community 4,117199859906111414956,"['gender:1', 'job_title:youtuber', 'university:University']"
+Community 4,106494230869455187834,"['gender:1', 'institution:YouTube', 'last_name:matt', 'university:school']"
+Community 4,111902435909328987615,"['gender:1', 'institution:Google', 'job_title:designer', 'job_title:for', 'job_title:google', 'job_title:lead', 'job_title:search', 'last_name:jon', 'place:Austin,', 'university:University']"
+Community 4,104269474868929828196,"['gender:1', 'job_title:actor,', 'job_title:comedian,', 'job_title:media', 'job_title:new', 'job_title:personality', 'job_title:producer,', 'job_title:writer,', 'job_title:youtube']"
+Community 4,118146622799388835070,"['gender:1', 'job_title:blogger,', 'job_title:designer,', 'job_title:developer', 'job_title:film', 'job_title:photographer,', 'job_title:professional', 'job_title:software', 'job_title:web']"
+Community 4,100172442532709511826,"['gender:2', 'place:New', 'place:Santa']"
+Community 4,115760244242681047833,"['gender:1', 'institution:YouTube', 'job_title:comedian', 'job_title:vlogger,', 'job_title:youtube']"
+Community 4,114119882749113484760,"['gender:1', 'job_title:for', 'job_title:i']"
+Community 4,109515092773912571908,"['gender:1', 'institution:Maker', 'last_name:jon', 'university:University']"
+Community 4,116708037648384852257,"['gender:1', 'institution:YouTube', 'job_title:youtuber', 'place:Marina']"
+Community 4,114871804602351797167,[]
+Community 4,116083619249156426296,"['gender:2', 'job_title:internet', 'job_title:personality']"
+Community 4,107779207112674704151,"['gender:1', 'institution:YouTube', 'last_name:michael']"
+Community 4,100295644055251343399,"['gender:1', 'institution:YouTube']"
+Community 4,104202267660369706940,"['gender:1', 'last_name:craig']"
+Community 4,109090908053575949807,"['gender:2', 'institution:GigaOM', 'job_title:writer', 'place:Los', 'place:Los', 'university:University']"
+Community 4,100206733811033963506,"['gender:1', 'last_name:mike']"
+Community 4,104293445472082130944,[]
+Community 4,102602889827610009164,"['gender:1', 'institution:YouTube', 'job_title:film', 'job_title:indie']"
+Community 4,114539176578060659660,"['gender:3', 'job_title:/', 'job_title:maker', 'last_name:matt']"
+Community 4,111430232048492401055,"['gender:1', 'last_name:dave', 'place:Los']"
+Community 4,112283747867833539036,"['gender:1', 'job_title:media', 'job_title:social', 'last_name:mark']"
+Community 4,106494143959347608965,"['gender:1', 'institution:YouTube', 'last_name:chris']"
+Community 4,101913074646163227284,"['gender:1', 'job_title:and', 'job_title:creator,', 'job_title:online', 'job_title:video', 'job_title:writer', 'last_name:dylan', 'place:Davis,', 'place:Orlando,', 'place:San']"
+Community 4,117626484310611183449,"['job_title:producer', 'job_title:video', 'job_title:youtube']"
+Community 4,100429378942334881740,"['gender:1', 'last_name:steven', 'place:Edmonton,']"
+Community 4,103995636533594675684,"['gender:2', 'university:University']"
+Community 4,112487682913586019731,"['gender:2', 'last_name:kelly', 'place:London']"
+Community 4,113763378399184346661,"['gender:1', 'institution:YouTube', 'last_name:daniel', 'place:Orlando']"
+Community 4,102373378383315494477,"['gender:1', 'last_name:kevin']"
+Community 4,106605578699900113471,"['gender:1', 'institution:YouTube']"
+Community 4,107847614829830011243,"['gender:1', 'last_name:michael']"
+Community 4,104863357314400709084,"['gender:1', 'institution:', 'job_title:internet', 'job_title:person', 'place:Orlando']"
+Community 4,109270874872875578638,[]
+Community 4,111146108644974413761,[]
+Community 4,111690959529879721906,"['gender:1', 'last_name:max']"
+Community 4,105028319803687446323,"['gender:1', 'institution:YouTube']"
+Community 4,101938733501740689957,"['gender:1', 'institution:Maker', 'last_name:adam']"
+Community 4,100262595546646927505,"['gender:2', 'job_title:internet', 'last_name:justine', 'place:Los']"
+Community 4,102557642590785142915,"['gender:3', 'institution:YouTube', 'job_title:i', 'job_title:make', 'job_title:on', 'job_title:videos', 'last_name:joe']"
+Community 4,112463864366109296838,"['gender:1', 'institution:YouTube', 'job_title:youtuber', 'last_name:peter']"
+Community 4,117739722725965559636,"['job_title:blogger', 'job_title:vlogger,']"
+Community 4,110286587261352351537,"['gender:2', 'institution:Self', 'job_title:actress,', 'job_title:creator,', 'job_title:gamer', 'job_title:video', 'job_title:web', 'job_title:writer,', 'place:Austin,', 'place:Huntsville,', 'place:Louisville,', 'university:University']"
+Community 4,100717480898990671886,"['gender:1', 'institution:Self']"
+Community 4,111246604832230778260,"['gender:2', 'institution:YouTube', 'job_title:musician', 'last_name:sarah']"
+Community 4,107966083689010962220,"['gender:1', 'job_title:/', 'job_title:music', 'job_title:producer', 'job_title:youtuber']"
+Community 4,106312867443069348446,"['gender:1', 'institution:YouTube', 'job_title:actor,', 'job_title:musician', 'job_title:student,', 'job_title:videographer,']"
+Community 4,104124603672616052640,"['gender:1', 'last_name:paul']"
+Community 4,104819005525677686100,['gender:1']
+Community 4,104698288677453165130,"['gender:1', ""institution:O'Reilly"", 'institution:YouTube', 'job_title:and', 'job_title:co-founder', 'job_title:president,', 'last_name:alan', 'place:Milwaukee,']"
+Community 4,100651669984520028497,[]
+Community 4,109046442675811528997,"['gender:1', 'institution:YouTube', 'job_title:make']"
+Community 4,103383678921229465207,"['gender:2', 'job_title:redditor', 'job_title:youtuber,', 'last_name:jackie', 'place:Portland,', 'place:San']"
+Community 4,113858701146453101478,"['gender:2', 'job_title:youtuber']"
+Community 4,106830050183071033644,"['gender:1', 'last_name:charlie']"
+Community 4,108497217883570868002,"['gender:1', 'institution:YouTube', 'job_title:partner', 'job_title:youtube']"
+Community 4,101297850423506123818,"['gender:1', 'institution:Self', 'job_title:entertainer', 'place:Los', 'place:San', 'place:Seattle', 'place:Toronto']"
+Community 4,110517920317845671551,"['gender:2', 'institution:YouTube', 'job_title:actress,', 'job_title:creator', 'place:Los', 'place:New']"
+Community 4,112338245870906533942,"['gender:1', 'job_title:online', 'job_title:personality']"
+Community 4,103459558342727553431,"['gender:2', 'institution:YouTube', 'job_title:certified', 'job_title:ninja']"
+Community 4,104156068358949618442,"['gender:1', 'institution:Revision3', 'institution:YouTube', 'job_title:partner', 'job_title:youtube', 'last_name:mark']"
+Community 4,111348629195534256663,"['gender:1', 'job_title:creator', 'job_title:video', 'university:University']"
+Community 5,107174603951133855584,"['gender:1', 'job_title:director,', 'job_title:editor,', 'job_title:editor-in-chief', 'job_title:network', 'job_title:photographer.', 'job_title:writer,', 'last_name:david', 'university:School']"
+Community 5,103851629838958886416,[]
+Community 5,117482642538384329281,[]
+Community 5,109187026428012507334,"['gender:1', 'job_title:photographer', 'last_name:jeremy', 'place:Los', 'place:Nashville', 'university:Middle']"
+Community 5,103444239680531694442,"['gender:2', 'last_name:lesley']"
+Community 5,108581371748491713295,"['gender:1', 'job_title:and', 'job_title:creative', 'job_title:guy', 'job_title:photographer', 'last_name:john', 'place:Huntsville,', 'place:Nashville,', 'place:San', 'place:Tallahassee,']"
+Community 5,107926169747487176608,[]
+Community 5,106138725016778836952,"['gender:1', 'job_title:-', 'job_title:design', 'job_title:graphic', 'job_title:photography']"
+Community 5,106539835304510344813,"['gender:2', 'job_title:life', 'place:Boulder,']"
+Community 5,102227359845636175866,"['gender:1', 'job_title:photographer']"
+Community 5,118306516911843051370,"['gender:1', 'institution:', 'last_name:scott']"
+Community 5,105629571973408918807,[]
+Community 5,101584402501141727748,"['gender:1', 'institution:Self', 'job_title:filmmaker', 'last_name:paul']"
+Community 5,112957065719498086306,"['gender:1', 'last_name:kirk']"
+Community 5,103519655975029093996,"['gender:1', 'job_title:editor', 'job_title:of', 'place:London,']"
+Community 5,114979733565079457374,"['gender:2', 'job_title:/', 'job_title:actress', 'job_title:producer', 'last_name:casey']"
+Community 5,101453783199083518841,[]
+Community 5,115876313538796651168,"['gender:1', 'job_title:&', 'job_title:photographer', 'place:Penang']"
+Community 5,107784212140893392732,"['gender:1', 'job_title:developer', 'job_title:illustrator', 'job_title:photographer', 'last_name:brandon']"
+Community 5,106289562822644692555,"['gender:1', 'job_title:@', 'job_title:photographer', 'place:Little']"
+Community 5,118233603663991595473,[]
+Community 5,100941456844602408500,[]
+Community 5,107072783318215908213,[]
+Community 5,111599857664680730019,[]
+Community 5,108527329601014444443,"['gender:2', 'job_title:and', 'job_title:city', 'job_title:in', 'job_title:natural', 'job_title:new', 'job_title:photographer', 'job_title:specializing', 'job_title:york', 'place:New']"
+Community 5,113580775903888579887,[]
+Community 5,101604821503873651608,[]
+Community 5,107859188684111526716,"['gender:1', 'job_title:developer,', 'job_title:media', 'job_title:social', 'job_title:strategist', 'job_title:web', 'place:Nashville,']"
+Community 5,117363884853969096109,"['gender:1', 'job_title:and', 'job_title:audio', 'job_title:freelance', 'job_title:full', 'job_title:g+', 'job_title:my', 'job_title:thinker,', 'job_title:time', 'job_title:video', 'job_title:writer']"
+Community 5,101329911725818815648,"['gender:1', 'institution:YouTube', 'job_title:/', 'job_title:amateur', 'job_title:developer', 'job_title:photographer', 'job_title:student,', 'job_title:web', 'last_name:alex', 'place:Manchester', 'university:Aquinas']"
+Community 5,109783184958092523823,[]
+Community 5,109537943042881567867,[]
+Community 5,111601274539518257372,[]
+Community 5,110496936159260440618,[]
+Community 5,113683207338912869760,"['gender:1', 'job_title:&', 'job_title:photography', 'last_name:jon']"
+Community 5,108970766621586435579,[]
+Community 5,113216425001363110392,"['gender:1', 'job_title:and', 'job_title:designer,', 'job_title:doing', 'job_title:graphic', 'job_title:is', 'job_title:my', 'job_title:of', 'job_title:photographer,', 'job_title:through', 'job_title:web', 'last_name:brandon']"
+Community 5,101985586791698653149,[]
+Community 5,101248132798651706167,"['gender:1', 'job_title:/', 'job_title:architect', 'job_title:musician', 'job_title:photographer', 'job_title:software', 'job_title:writer', 'last_name:jonathan', 'place:Austin,', 'place:Eugene,', 'place:Memphis,', 'place:Murfreesboro,', 'place:Nashville,']"
+Community 5,110631584319300141261,"['gender:1', 'place:Auckland', 'place:Bangkok', 'place:Kuala', 'place:Melbourne', 'place:Penang', 'place:Seoul']"
+Community 5,111076953526963666185,"['gender:1', 'last_name:chris', 'place:Reading,', 'place:Tacoma,']"
+Community 5,100620145262120669246,[]
+Community 5,105457786165459412407,"['gender:1', 'job_title:business', 'job_title:development', 'job_title:of', 'job_title:vp', 'last_name:jamie', 'place:Boston,', 'place:Visalia,', 'university:University']"
+Community 5,111114254477018072847,[]
+Community 5,102778563580121606331,"['gender:1', 'job_title:computer', 'job_title:geek', 'last_name:john', 'place:Berkeley,', 'place:Chicago,', 'place:Madison,', 'place:Milwaukee,', 'place:New', 'place:Oakland,', 'place:San', 'place:San', 'place:Visalia,', 'place:Washington']"
+Community 5,100372135633760991915,"['gender:1', 'last_name:tom']"
+Community 5,112657790571355014050,[]
+Community 5,109938202835872364257,"['gender:1', 'job_title:i', 'job_title:make', 'job_title:people', 'last_name:john']"
+Community 5,102213927299417521191,"['gender:1', 'job_title:a', 'job_title:for', 'job_title:living.', 'job_title:work', 'last_name:danny']"
+Community 5,102189609154229152874,[]
+Community 5,108107439272887393780,"['gender:1', 'job_title:artist,', 'job_title:designer', 'job_title:fine', 'job_title:graphic', 'last_name:brad', 'place:Nashville,']"
+Community 5,105740898373216863867,[]
+Community 5,107404242080797040590,"['gender:2', 'institution:Media', 'place:Asheville,', 'place:Chapel', 'place:Durham,', 'place:Raleigh,', 'university:University']"
+Community 5,100271922489534236628,[]
+Community 5,113028930940007165058,"['gender:1', 'job_title:and', 'job_title:digital', 'job_title:marketing,', 'last_name:dave', 'place:Toronto,', 'university:Seneca']"
+Community 5,118153590571996026494,"['gender:1', 'job_title:clinical', 'job_title:freelance', 'job_title:photographer', 'last_name:richard', 'place:Charleston,', 'university:Middle']"
+Community 5,107234826207633309420,"['gender:1', 'institution:LockerGnome', 'institution:TechTV', 'job_title:geek', 'last_name:chris', 'place:San', 'place:San']"
+Community 5,114386770841030106297,[]
+Community 5,101248054507015265353,"['gender:1', 'job_title:and', 'job_title:business', 'job_title:development', 'job_title:for', ""job_title:i'm"", 'job_title:me', 'job_title:something', 'last_name:darren']"
+Community 5,115635783790203857600,"['gender:1', 'institution:', 'last_name:chris']"

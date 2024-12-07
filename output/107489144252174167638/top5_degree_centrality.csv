@@ -1,0 +1,6 @@
+Node,degree_centrality,Number of Degrees,Feature
+107489144252174167638,1.3300661043993618,5835,"['gender:1', 'institution:', 'job_title:blogger', 'job_title:photographer', 'last_name:steve']"
+110656253137238747090,0.8260770458171872,3624,"['gender:2', 'job_title:pet', 'job_title:photographer,', 'last_name:donna']"
+103145406846784293020,0.7891497606564851,3462,"['gender:2', 'job_title:engineer', 'job_title:it', 'job_title:systems']"
+110945896776944314708,0.7718258490996125,3386,"['gender:1', 'job_title:biologist', 'job_title:photographer,', 'last_name:frank', 'place:Jakarta,', 'university:University']"
+102742333797709782764,0.7649874629587418,3356,"['gender:1', 'job_title:it', 'job_title:software', 'job_title:specialist,', 'last_name:brian', 'place:All', 'place:Florida', 'place:Mississippi', 'place:Ohio', 'place:South', 'place:Texas']"

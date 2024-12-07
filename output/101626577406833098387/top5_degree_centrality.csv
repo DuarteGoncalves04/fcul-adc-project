@@ -1,0 +1,6 @@
+Node,degree_centrality,Number of Degrees,Feature
+101626577406833098387,1.0268158783783785,4863,"['gender:1', 'job_title:...', 'job_title:blogger,', 'job_title:gallery', 'job_title:webdesign,', 'job_title:youtuber,']"
+103816454263149317813,0.3293918918918919,1560,"['gender:1', 'last_name:bobby']"
+113989952886968273012,0.2939189189189189,1392,"['gender:1', 'last_name:karsten']"
+114658682617855410839,0.28864020270270274,1367,"['gender:1', 'place:Romania']"
+106542106648136996331,0.28188344594594594,1335,['gender:3']

@@ -1,0 +1,6 @@
+Node,betweenness_centrality,Number of Degrees,Feature
+104987932455782713675,0.15982784615747542,2574,"['gender:1', 'institution:', 'job_title:at', 'job_title:blogger', 'job_title:photographer,', 'last_name:thomas', 'place:Los']"
+111091089527727420853,0.021134961335472536,1248,"['gender:1', 'institution:Microsoft', 'institution:Rackspace', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+102476152658204495450,0.013829213319666848,1438,"['gender:2', 'job_title:blogger', 'job_title:photographer,', 'job_title:writer,', 'place:Greenville,', 'place:NY', 'place:Nashville,', 'place:Switzerland']"
+109330684746468207713,0.010286806482350601,1590,"['gender:1', 'job_title:&', 'job_title:art', 'job_title:fine', 'job_title:landscape', 'job_title:nature', 'job_title:photographer', 'last_name:patrick', 'place:Bogota,', 'place:Caracas,', 'place:St.']"
+101261243957067319422,0.008894816764360417,960,"['gender:1', 'institution:TechTV', 'job_title:journalist', 'job_title:technology', 'last_name:leo', 'place:Manhattan', 'place:Providence', 'place:San', 'place:San', 'place:Santa']"

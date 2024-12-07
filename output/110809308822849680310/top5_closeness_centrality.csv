@@ -1,0 +1,6 @@
+Node,closeness_centrality,Number of Degrees,Feature
+110809308822849680310,0.385066371681416,153,"['gender:2', 'job_title:activist,', 'job_title:blogger,', 'job_title:consultant,', 'job_title:online', 'job_title:poet,', 'job_title:political', 'job_title:writer,', 'place:Florence,']"
+108176814619778619437,0.35123893805309736,28,"['gender:1', 'job_title:and', 'job_title:writer']"
+111048918866742956374,0.30500306667834926,51,"['gender:1', 'job_title:&', 'job_title:actor,', 'job_title:director,', 'job_title:social', 'job_title:writer,']"
+109213355974494564760,0.3034134007585335,19,"['gender:1', 'job_title:writer,', 'last_name:ryan']"
+103399926392582289066,0.30201284053444394,27,"['gender:1', 'job_title:online', 'university:DePaul']"

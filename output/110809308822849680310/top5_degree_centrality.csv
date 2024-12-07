@@ -1,0 +1,6 @@
+Node,degree_centrality,Number of Degrees,Feature
+110809308822849680310,1.3539823008849556,153,"['gender:2', 'job_title:activist,', 'job_title:blogger,', 'job_title:consultant,', 'job_title:online', 'job_title:poet,', 'job_title:political', 'job_title:writer,', 'place:Florence,']"
+113962023658534166448,0.5132743362831859,58,"['gender:1', 'job_title:blogger']"
+114707910756425953932,0.46017699115044247,52,"['gender:1', 'last_name:richard']"
+111048918866742956374,0.45132743362831856,51,"['gender:1', 'job_title:&', 'job_title:actor,', 'job_title:director,', 'job_title:social', 'job_title:writer,']"
+112931539494181042672,0.3805309734513274,43,"['gender:2', 'job_title:nothing']"

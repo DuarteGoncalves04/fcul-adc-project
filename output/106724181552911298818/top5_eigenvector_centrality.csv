@@ -1,0 +1,6 @@
+Node,eigenvector_centrality,Number of Degrees,Feature
+111091089527727420853,0.10262175343993196,3244,"['gender:1', 'institution:Fawcette', 'institution:Microsoft', 'institution:Rackspace', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+105237212888595777019,0.0853617163830012,1532,"['gender:1', 'job_title:a', 'job_title:at', 'job_title:camera', 'job_title:cool', 'job_title:explorer', 'job_title:monkey', 'job_title:really', 'job_title:with', 'last_name:trey', 'place:Austin,', 'university:Southern']"
+104987932455782713675,0.08464625488270137,1575,"['gender:1', 'institution:', 'job_title:at', 'job_title:blogger', 'job_title:photographer,', 'last_name:thomas', 'place:Los']"
+109813896768294978296,0.08379199236147446,1233,"['gender:1', 'institution:Google', 'place:palo', 'university:Stanford', 'university:University']"
+106189723444098348646,0.08145592561124432,1329,"['gender:1', 'institution:Google', 'last_name:larry']"

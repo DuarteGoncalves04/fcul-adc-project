@@ -1,0 +1,6 @@
+Node,degree_centrality,Number of Degrees,Feature
+104987932455782713675,1.467502850627138,2574,"['gender:1', 'institution:', 'job_title:at', 'job_title:blogger', 'job_title:photographer,', 'last_name:thomas', 'place:Los']"
+109330684746468207713,0.9064994298745724,1590,"['gender:1', 'job_title:&', 'job_title:art', 'job_title:fine', 'job_title:landscape', 'job_title:nature', 'job_title:photographer', 'last_name:patrick', 'place:Bogota,', 'place:Caracas,', 'place:St.']"
+108470782772821648496,0.8500570125427594,1491,"['gender:2', 'job_title:architect,', 'job_title:author', 'job_title:photographer,', 'job_title:teacher,']"
+113184091727451211493,0.8232611174458381,1444,"['gender:1', 'job_title:documentary', 'job_title:photographer', 'last_name:gary']"
+102476152658204495450,0.8198403648802737,1438,"['gender:2', 'job_title:blogger', 'job_title:photographer,', 'job_title:writer,', 'place:Greenville,', 'place:NY', 'place:Nashville,', 'place:Switzerland']"

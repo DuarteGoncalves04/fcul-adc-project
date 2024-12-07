@@ -1,0 +1,6 @@
+Node,degree_centrality,Number of Degrees,Feature
+106724181552911298818,1.1011351909184726,4268,"['gender:1', 'job_title:american', 'job_title:at', 'job_title:blogger', 'job_title:blogger,', 'job_title:blogs,', 'job_title:columnist,', 'job_title:conservative', 'job_title:editor', 'job_title:editor-in-chief', 'job_title:entrepreneur.', 'job_title:liberal', 'job_title:of', 'job_title:partner', 'job_title:several', 'last_name:michael', 'place:Izmir,']"
+111091089527727420853,0.8369453044375644,3244,"['gender:1', 'institution:Fawcette', 'institution:Microsoft', 'institution:Rackspace', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+101261243957067319422,0.5410216718266253,2097,"['gender:1', 'institution:Premiere', 'institution:TWiT', 'institution:TechTV', 'job_title:journalist', 'job_title:technology', 'last_name:leo', 'place:Manhattan', 'place:Monterey', 'place:Providence', 'place:San', 'place:San', 'place:Santa', 'university:Yale']"
+107590093667978669374,0.48890608875128994,1895,"['gender:1', 'job_title:at', 'job_title:librarian', 'job_title:of', 'job_title:the', 'job_title:university', 'last_name:ryan']"
+110258899475477198037,0.4574303405572755,1773,['gender:1']

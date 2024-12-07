@@ -1,0 +1,6 @@
+Node,eigenvector_centrality,Number of Degrees,Feature
+110809308822849680310,0.30085056515233466,153,"['gender:2', 'job_title:activist,', 'job_title:blogger,', 'job_title:consultant,', 'job_title:online', 'job_title:poet,', 'job_title:political', 'job_title:writer,', 'place:Florence,']"
+109213355974494564760,0.22398499935581248,19,"['gender:1', 'job_title:writer,', 'last_name:ryan']"
+108176814619778619437,0.2125397999019676,28,"['gender:1', 'job_title:and', 'job_title:writer']"
+111048918866742956374,0.20227741346351283,51,"['gender:1', 'job_title:&', 'job_title:actor,', 'job_title:director,', 'job_title:social', 'job_title:writer,']"
+101236358663985370139,0.19338034233278992,41,"['gender:1', 'job_title:professional']"

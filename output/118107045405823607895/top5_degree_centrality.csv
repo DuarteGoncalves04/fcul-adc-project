@@ -1,0 +1,6 @@
+Node,degree_centrality,Number of Degrees,Feature
+118107045405823607895,1.236766516208453,3014,"['gender:1', 'job_title:&', 'job_title:art', 'job_title:blogger,', 'job_title:business', 'job_title:consultant,', 'job_title:designer,', 'job_title:developer,', 'job_title:graphic', 'job_title:it', 'job_title:owner', 'job_title:painter,', 'job_title:sculptor,', 'job_title:small', 'job_title:toy', 'job_title:web', 'last_name:james']"
+113920526057233976680,0.5338530980713992,1301,"['gender:2', 'job_title:;)', 'job_title:a', 'job_title:am', 'job_title:artist,', 'job_title:blogger,', 'job_title:designer,', 'job_title:editor,', 'job_title:for', 'job_title:i', ""job_title:i'm"", 'job_title:not', 'job_title:one', 'job_title:photo', 'job_title:photographer,', 'job_title:the', 'job_title:them', 'job_title:videographer', 'job_title:who']"
+106674561143088442070,0.5030775543701272,1226,"['gender:1', 'job_title:-', 'job_title:art', 'job_title:artist', 'job_title:fine', 'job_title:printing', 'job_title:problem', 'job_title:service', 'job_title:solver', 'job_title:visual', 'last_name:charles', 'place:Boston,', 'place:Daytona', 'place:Syracuse,', 'university:Syracuse']"
+106048773058055537048,0.494460402133771,1205,"['gender:1', 'place:Palo']"
+114427619140485635394,0.4940500615510874,1204,"['gender:2', 'job_title:/', 'job_title:art', 'job_title:artist', 'job_title:teacher']"

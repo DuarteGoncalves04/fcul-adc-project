@@ -1,0 +1,6 @@
+Node,closeness_centrality,Number of Degrees,Feature
+106189723444098348646,0.3772103980705636,983,"['gender:1', 'institution:Google', 'last_name:larry']"
+109813896768294978296,0.3700314940549315,893,"['gender:1', 'institution:Google', 'last_name:sergey', 'university:Stanford', 'university:University']"
+105237212888595777019,0.364844067062683,1159,"['gender:1', 'job_title:a', 'job_title:at', 'job_title:camera', 'job_title:cool', 'job_title:explorer', 'job_title:monkey', 'job_title:really', 'job_title:with', 'last_name:trey', 'place:Austin,', 'university:Southern']"
+107117483540235115863,0.3647268249755199,821,"['gender:1', 'institution:Google', 'institution:Microsoft', 'job_title:engineering', 'job_title:president,', 'job_title:senior', 'job_title:vice']"
+112063946124358686266,0.3646102599280499,849,"['gender:1', 'job_title::)', 'job_title:being', 'job_title:enjoying', 'job_title:retired', 'last_name:tom']"

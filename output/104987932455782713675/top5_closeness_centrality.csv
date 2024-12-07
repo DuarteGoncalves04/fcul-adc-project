@@ -1,0 +1,6 @@
+Node,closeness_centrality,Number of Degrees,Feature
+104987932455782713675,0.49783042227449037,2574,"['gender:1', 'institution:', 'job_title:at', 'job_title:blogger', 'job_title:photographer,', 'last_name:thomas', 'place:Los']"
+105237212888595777019,0.45586770468813487,1040,"['gender:1', 'job_title:a', 'job_title:at', 'job_title:camera', 'job_title:cool', 'job_title:explorer', 'job_title:monkey', 'job_title:really', 'job_title:with', 'place:Austin,', 'university:Southern']"
+111091089527727420853,0.4390460181682775,1248,"['gender:1', 'institution:Microsoft', 'institution:Rackspace', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+118418436905562612953,0.43005350936242115,853,"['gender:2', 'institution:', 'job_title:app', 'job_title:developer', 'job_title:photographer,', 'last_name:lisa', 'place:Toronto,', 'place:Vancouver,', 'place:Victoria,', 'university:University']"
+102476152658204495450,0.4282476457958123,1438,"['gender:2', 'job_title:blogger', 'job_title:photographer,', 'job_title:writer,', 'place:Greenville,', 'place:NY', 'place:Nashville,', 'place:Switzerland']"

@@ -1,0 +1,6 @@
+Node,betweenness_centrality,Number of Degrees,Feature
+101626577406833098387,0.08754097123874181,4863,"['gender:1', 'job_title:...', 'job_title:blogger,', 'job_title:gallery', 'job_title:webdesign,', 'job_title:youtuber,']"
+111367628080250080638,0.016408760038422496,496,"['institution:Google', 'job_title:and', 'job_title:director', 'job_title:engineering', 'job_title:of', 'job_title:product', 'place:Connecticut', 'place:London,', 'place:Pittsburgh,', 'place:San', 'university:Carnegie']"
+105065317973590246539,0.010027599079287084,811,['gender:2']
+111091089527727420853,0.009636458826070548,1259,"['gender:1', 'institution:Microsoft', 'job_title:for', 'job_title:officer', 'last_name:robert', 'university:Prospect', 'university:San']"
+113989952886968273012,0.008938081761038623,1392,"['gender:1', 'last_name:karsten']"

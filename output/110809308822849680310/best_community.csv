@@ -1,0 +1,39 @@
+Node ID,Features
+111553074779935237348,['gender:1']
+101976992040117841588,"['gender:1', 'job_title:it', 'last_name:james']"
+105651997169496320109,"['gender:1', 'job_title:a', 'job_title:and', 'job_title:chief', 'job_title:designer,', 'job_title:developer,', 'job_title:experience', 'job_title:marketing', 'job_title:media', 'job_title:media,', 'job_title:of', 'job_title:senior', 'job_title:social', 'job_title:web']"
+115690810845062432413,"['gender:1', 'job_title:and', 'job_title:for', 'job_title:the', 'job_title:writing,']"
+108561665932627473443,"['gender:1', 'job_title:engineer', 'job_title:senior', 'job_title:software', 'place:San']"
+101739741878826137430,['gender:1']
+113079005958024523963,['gender:1']
+100705229313310074838,"['gender:2', 'job_title:blogger', 'job_title:online']"
+115014982086075314957,"['gender:2', 'job_title:&', 'job_title:director,', 'place:Washington,']"
+117433601273794793765,"['gender:1', 'place:Toronto']"
+104401480467294646872,['gender:1']
+100880605610983797081,['gender:1']
+118068221752550925627,"['gender:1', 'job_title:&', 'job_title:director,', 'last_name:david']"
+101067703531172208103,[]
+101661556901272001511,['gender:1']
+114799576153483269253,['gender:1']
+104837444186798390618,[]
+109937667038516307933,['gender:1']
+100648447824835833841,"['gender:1', 'job_title:activist,', 'job_title:business', 'job_title:director,', 'job_title:entrepreneur,', 'job_title:political']"
+106352324589265984342,"['gender:1', 'job_title:social', 'job_title:specialist', 'last_name:james']"
+114999153204626637344,['gender:1']
+111325600943668975013,"['gender:1', 'last_name:jason']"
+101992317764598340622,"['job_title:online', 'last_name:david']"
+100505025801065910059,"['gender:1', 'job_title:and', 'job_title:internet', 'job_title:professional', 'university:University']"
+107034853331269236365,"['gender:2', 'job_title:engineer']"
+107938607469938255640,['gender:1']
+115222177988544624929,"['gender:1', 'last_name:paul', 'place:Paris']"
+103150632928084465744,"['gender:1', 'job_title:internet', 'job_title:marketing', 'place:San']"
+115037426314836772892,"['gender:1', 'job_title:consultant', 'job_title:for', 'last_name:jason']"
+102330181289486588031,"['gender:1', 'job_title:designer,', 'job_title:developer,', 'job_title:web']"
+116351844072307896383,"['gender:1', 'job_title:&', 'job_title:director,', 'place:Australia']"
+101128755113749145093,"['gender:1', 'last_name:kevin', 'place:Moose']"
+106961732045330916384,"['gender:1', 'job_title:a', 'job_title:day', 'job_title:my', 'job_title:time', 'last_name:alan', 'place:Brooklyn,']"
+111270145240185279834,['gender:1']
+110809308822849680310,"['gender:2', 'job_title:activist,', 'job_title:blogger,', 'job_title:consultant,', 'job_title:online', 'job_title:poet,', 'job_title:political', 'job_title:writer,', 'place:Florence,']"
+114964146443403609010,"['gender:1', 'place:Florence,', 'university:University']"
+101342900053183501060,['gender:1']
+116417560883731706834,"['gender:1', 'job_title:and']"

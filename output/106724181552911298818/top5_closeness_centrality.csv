@@ -1,0 +1,6 @@
+Node,closeness_centrality,Number of Degrees,Feature
+111091089527727420853,0.46879286780914253,3244,"['gender:1', 'institution:Fawcette', 'institution:Microsoft', 'institution:Rackspace', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+106189723444098348646,0.44046705872325914,1329,"['gender:1', 'institution:Google', 'last_name:larry']"
+109813896768294978296,0.4292715341805798,1233,"['gender:1', 'institution:Google', 'place:palo', 'university:Stanford', 'university:University']"
+107117483540235115863,0.42460128054545376,1191,"['gender:1', 'institution:Google', 'institution:Microsoft', 'job_title:engineering', 'job_title:president,', 'job_title:senior', 'job_title:vice']"
+101261243957067319422,0.4188994232809897,2097,"['gender:1', 'institution:Premiere', 'institution:TWiT', 'institution:TechTV', 'job_title:journalist', 'job_title:technology', 'last_name:leo', 'place:Manhattan', 'place:Monterey', 'place:Providence', 'place:San', 'place:San', 'place:Santa', 'university:Yale']"

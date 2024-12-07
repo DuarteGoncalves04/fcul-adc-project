@@ -1,0 +1,6 @@
+Node,eigenvector_centrality,Number of Degrees,Feature
+111091089527727420853,0.0919942520470291,2243,"['gender:1', 'institution:Fawcette', 'institution:Microsoft', 'job_title:for', 'job_title:liaison', 'job_title:officer', 'job_title:startup', 'last_name:robert', 'university:Prospect', 'university:San']"
+105237212888595777019,0.09080619242764518,1502,"['gender:1', 'job_title:a', 'job_title:at', 'job_title:camera', 'job_title:cool', 'job_title:explorer', 'job_title:monkey', 'job_title:really', 'job_title:with', 'place:Austin,', 'university:Southern']"
+104987932455782713675,0.0878270995225428,1498,"['gender:1', 'institution:', 'job_title:at', 'job_title:blogger', 'job_title:photographer,', 'last_name:thomas', 'place:Los']"
+118418436905562612953,0.08320854062992519,1092,"['gender:2', 'institution:', 'job_title:app', 'job_title:developer', 'job_title:photographer,', 'last_name:lisa', 'place:Calgary,', 'place:Toronto,', 'place:Vancouver,', 'place:Victoria,', 'university:University']"
+113686253941057080055,0.07720183240752884,1162,"['gender:1', 'job_title:community', 'job_title:google+', 'job_title:manager', 'job_title:photos', 'last_name:brian', 'place:Boston', 'place:Honolulu', 'place:Mountain', 'place:Seattle', 'place:Seoul', 'university:University']"
