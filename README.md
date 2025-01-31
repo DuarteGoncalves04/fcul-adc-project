@@ -79,7 +79,7 @@ If everything is as demonstrated in Project Structure, than it may proceed to ex
 ## Author and Contact
 
 - **Duarte Gonçalves** - [duarte.dapg@gmail.com](mailto:duarte.dapg@gmail.com)
-- **Enzo Chatalov**
+- **Enzo Chatalov** - [enzobchatalov@gmail.com](mailto:enzobchatalov@gmail.com)
 - **Daniel Câmara**
 - **Luís Reis**
 
